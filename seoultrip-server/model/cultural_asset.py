@@ -6,19 +6,17 @@ from sqlalchemy.types import Integer, String
 from .db import Base
 
 
-__all__ = 'shop',
+__all__ = 'cutural_asset',
 
 
-class Shop(Base):
+class CutrualAsset(Base):
     id = Column(Integer, primary_key=True) # auto_increment?
 
     name = Column(String, nullable=False)
 
     addr = Column(String, nullable=False)
 
-    kind = Column(Integer, nullable=False)
-
-    location = Column(String, nullable=False)
+    board = Column(String, nullable=False)
 
     phone = Column(String, nullable=False)
 
@@ -35,5 +33,4 @@ class Shop(Base):
     lang = relationship('lang')
 
 
-    __tablename__ = 'shop'
-
+    __tablename__ = 'cutural_asset'
