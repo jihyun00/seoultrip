@@ -9,7 +9,7 @@ __all__ = 'language',
 
 
 class Language(Base):
-    id = Column(Integer, primary_key=True) # auto_increment?
+    id = Column(Integer, primary_key=True, autoincrement=True)
 
     name = Column(String, nullable=False)
 

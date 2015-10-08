@@ -10,7 +10,7 @@ __all__ = 'shop', 'shop_en',
 
 
 class Shop(Base):
-    id = Column(Integer, primary_key=True) # auto_increment?
+    id = Column(Integer, primary_key=True, autoincrement=True)
 
     name = Column(String, nullable=False)
 

@@ -9,7 +9,7 @@ __all__ = 'category',
 
 
 class Category(Base):
-    id = Column(Integer, primary_key=True) # auto_increment?
+    id = Column(Integer, primary_key=True, autoincrement=True)
 
     name = Column(String, nullable=False)
 
