@@ -6,10 +6,10 @@ from sqlalchemy.types import Integer, String
 from .db import Base
 
 
-__all__ = 'cutural_asset',
+__all__ = 'cultural_asset', 'cultural_asset_en',
 
 
-class CutrualAsset(Base):
+class CultrualAsset(Base):
     id = Column(Integer, primary_key=True) # auto_increment?
 
     name = Column(String, nullable=False)
@@ -33,4 +33,12 @@ class CutrualAsset(Base):
     lang = relationship('lang')
 
 
-    __tablename__ = 'cutural_asset'
+    __tablename__ = 'cultural_asset'
+
+
+class CuturalAssetEn(Base, CulturalAsset):
+    cultural_asset_id = Column(Integer, ForeignKey('cutural_asset.id'), nullable=False)
+
+    cultural_asset = relationship('cutural_asset')
+
+    __tablename__ = 'cultural_asset_en'

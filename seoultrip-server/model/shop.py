@@ -6,7 +6,7 @@ from sqlalchemy.types import Integer, String
 from .db import Base
 
 
-__all__ = 'shop',
+__all__ = 'shop', 'shop_en',
 
 
 class Shop(Base):
@@ -36,4 +36,12 @@ class Shop(Base):
 
 
     __tablename__ = 'shop'
+
+
+class ShopEn(Base, Shop):
+    shop_id = Column(Integer, ForeignKey('shop.id'), nullable=False)
+
+    shop = relationship('shop')
+
+    __tablename__ = 'shop_en'
 
