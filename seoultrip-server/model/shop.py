@@ -14,11 +14,9 @@ class Shop(Base):
 
     name = Column(String, nullable=False)
 
-    addr = Column(String, nullable=False)
+    addr = Column(String)
 
     kind = Column(Integer, nullable=False)
-
-    location = Column(String, nullable=False)
 
     phone = Column(String, nullable=False)
 
