@@ -18,8 +18,6 @@ class CultrualAsset(Base):
 
     board = Column(String, nullable=False)
 
-    phone = Column(String, nullable=False)
-
     region_id = Column(Integer, ForeignKey('region.id'), nullable=False)
 
     category_id = Column(Integer, ForeignKey('category.id'), nullable=False)

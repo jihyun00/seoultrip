@@ -13,8 +13,13 @@ status = result["SpListMall"]["RESULT"]["CODE"]
 cnt = result["SpListMall"]["list_total_count"]
 
 if(status == "INFO-000"):
-    if(cnt <= 1000):
-        end = cnt  
+    pivot = int(cnt/1000)+2
+    for i in range(1, pivot):
+        if(i == pivot):
+            end = pivot
+        else:
+            end = i*1000
+        start = end-999
         r = requests.get('http://openapi.songpa.seoul.kr:8088/'+token+'/json/SpListMall/'+str(start)+'/'+str(end))
         result = r.json()
         rows = result["SpListMall"]["row"]
