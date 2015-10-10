@@ -6,17 +6,21 @@ from sqlalchemy.types import Integer, String
 from .db import Base
 
 
-__all__ = 'cultural_asset', 'cultural_asset_en',
+__all__ = 'stay', 'stay_en',
 
 
-class CultrualAsset(Base):
+class Stay(Base):
     id = Column(Integer, primary_key=True, autoincrement=True)
 
     name = Column(String, nullable=False)
 
-    addr = Column(String)
+    addr = Column(String, nullable=False)
 
-    board = Column(String)
+    grade = Column(Integer)
+
+    faculty = Column(String)
+
+    room = Column(Integer)
 
     region_id = Column(Integer, ForeignKey('region.id'), nullable=False)
 
@@ -31,12 +35,12 @@ class CultrualAsset(Base):
     lang = relationship('lang')
 
 
-    __tablename__ = 'cultural_asset'
+    __tablename__ = 'stay'
 
 
-class CuturalAssetEn(Base, CulturalAsset):
-    cultural_asset_id = Column(Integer, ForeignKey('cutural_asset.id'), nullable=False)
+class StayEn(Base, Stay):
+    stay_asset_id = Column(Integer, ForeignKey('stay.id'), nullable=False)
 
-    cultural_asset = relationship('cutural_asset')
+    stay = relationship('stay')
 
-    __tablename__ = 'cultural_asset_en'
+    __tablename__ = 'stay_en'

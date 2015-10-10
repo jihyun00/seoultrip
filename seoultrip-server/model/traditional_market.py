@@ -14,13 +14,13 @@ class TraditionalMarket(Base):
 
     name = Column(String, nullable=False)
 
-    addr = Column(String, nullable=False)
+    addr = Column(String)
 
-    phone = Column(String, nullable=False)
+    phone = Column(String)
 
-    lat = Column(Float, primary_key=True)
+    lat = Column(Float)
 
-    lng = Column(Float, primary_key=True)
+    lng = Column(Float)
     
     region_id = Column(Integer, ForeignKey('region.id'), nullable=False)
 

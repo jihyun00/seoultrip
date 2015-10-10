@@ -16,9 +16,9 @@ class Shop(Base):
 
     addr = Column(String)
 
-    kind = Column(Integer, nullable=False)
+    kind = Column(Integer)
 
-    phone = Column(String, nullable=False)
+    phone = Column(String)
 
     region_id = Column(Integer, ForeignKey('region.id'), nullable=False)
 
