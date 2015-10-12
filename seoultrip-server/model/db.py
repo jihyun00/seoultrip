@@ -4,16 +4,8 @@ from sqlalchemy.engine import Engine
 from sqlalchemy.ext.declarative import declarative_base
 
 
-__all__ = ('Base')
+__all__ = 'Base',
 
-
-def get_engine(config: dict=None) -> Engine:
-    if config is None:
-        config = current_app.config
-    if 'DATABASE_ENGINE' in config:
-        return config['DATABASE_ENGINE']
-    config['DATABASE_ENGINE'] = create_engine(config['DATABASE_URL'])
-    return config['DATABASE_ENGINE']
-
-
-Base = declarative_base()
+app = Flask(__name__)
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqllite://seoultrip:seoultrip@bbaba.kr/seoultrip.db'
+db = SQLAlchemy(app)

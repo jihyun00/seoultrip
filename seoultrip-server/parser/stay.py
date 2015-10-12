@@ -14,7 +14,7 @@ for row in rows:
     faculty = row["ADD_FACTY"]
     room = row["NOF_RM"]
 
-    # region_id, category_id, lang_id
+    # region_id, category_id, lang_id, CGM_NM으로 뭔가 할 수 있을 듯?
     print(name)
     print(addr)
     print(grade)
