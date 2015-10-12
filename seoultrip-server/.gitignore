@@ -2,3 +2,4 @@
 *.swp
 venv/
 seoultrip.egg-info/
+__pycache__

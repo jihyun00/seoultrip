@@ -36,10 +36,33 @@ class Shop(Base):
     __tablename__ = 'shop'
 
 
-class ShopEn(Base, Shop):
+class ShopEn(Base):
+    id = Column(Integer, primary_key=True, autoincrement=True)
+
+    name = Column(String, nullable=False)
+
+    addr = Column(String)
+
+    kind = Column(Integer)
+
+    phone = Column(String)
+
+    region_id = Column(Integer, ForeignKey('region.id'), nullable=False)
+
+    category_id = Column(Integer, ForeignKey('category.id'), nullable=False)
+
+    lang_id = Column(Integer, ForeignKey('lang.id'), nullable=False)
+
     shop_id = Column(Integer, ForeignKey('shop.id'), nullable=False)
 
+    region = relationship('region')
+
+    category = relationship('category')
+
+    lang = relationship('lang')
+
     shop = relationship('shop')
+
 
     __tablename__ = 'shop_en'
 
