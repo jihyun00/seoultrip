@@ -3,7 +3,7 @@ from sqlalchemy.orm import relationship
 from sqlalchemy.schema import Column, ForeignKey
 from sqlalchemy.types import Integer, String, Float
 
-from .db import Base
+from db import Base
 
 
 __all__ = 'traditional_market', 'traditional_market_en',

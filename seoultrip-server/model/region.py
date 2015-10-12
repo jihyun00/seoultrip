@@ -2,7 +2,7 @@ from flask import Flask
 from sqlalchemy.schema import Column
 from sqlalchemy.types import Integer, String
 
-from .db import Base
+from db import Base
 
 
 __all__ = 'region',

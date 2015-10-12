@@ -3,7 +3,7 @@ from sqlalchemy.orm import relationship
 from sqlalchemy.schema import Column, ForeignKey
 from sqlalchemy.types import Integer, String
 
-from .db import Base
+from db import Base
 
 
 __all__ = 'comment',
@@ -16,7 +16,7 @@ class Comment(Base):
 
     content = Column(String, nullable=False)
 
-    faculty_id = Column(Integer, nullable=False)
+    faculty_id = Column(Integer, ForeignKey('Faculty.id'), nullable=False)
 
     user_id = Column(Integer, ForeignKey('User.id'), nullable=False)
 

@@ -3,7 +3,7 @@ from sqlalchemy.orm import relationship
 from sqlalchemy.schema import Column, ForeignKey
 from sqlalchemy.types import Integer, String
 
-from .db import Base
+from db import Base
 
 
 __all__ = 'faculty', 
@@ -14,9 +14,9 @@ class Faculty(Base):
 
     category_id = Column(Integer, ForeignKey('category.id'), nullable=False)
 
-    category = relationship('category')
+    composite_id = Column(Integer, nullable=False) # TODO: composite key 추가 
 
-    # TODO: 
+    category = relationship('category')
 
 
     __tablename__ = 'faculty'
