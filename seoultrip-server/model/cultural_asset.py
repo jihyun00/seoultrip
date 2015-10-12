@@ -22,19 +22,19 @@ class CulturalAsset(Base):
 
     category_id = Column(Integer, ForeignKey('category.id'), nullable=False)
 
-    lang_id = Column(Integer, ForeignKey('lang.id'), nullable=False)
+    lang_id = Column(Integer, ForeignKey('language.id'), nullable=False)
 
     region = relationship('region')
 
     category = relationship('category')
 
-    lang = relationship('lang')
+    language = relationship('language')
 
 
     __tablename__ = 'cultural_asset'
 
 
-class CuturalAssetEn(Base):
+class CulturalAssetEn(Base):
     id = Column(Integer, primary_key=True, autoincrement=True)
 
     name = Column(String, nullable=False)
@@ -47,17 +47,17 @@ class CuturalAssetEn(Base):
 
     category_id = Column(Integer, ForeignKey('category.id'), nullable=False)
 
-    lang_id = Column(Integer, ForeignKey('lang.id'), nullable=False)
+    lang_id = Column(Integer, ForeignKey('language.id'), nullable=False)
 
-    cultural_asset_id = Column(Integer, ForeignKey('cutural_asset.id'), nullable=False)
+    cultural_asset_id = Column(Integer, ForeignKey('cultural_asset.id'), nullable=False)
 
     region = relationship('region')
 
     category = relationship('category')
 
-    lang = relationship('lang')
+    language = relationship('language')
 
-    cultural_asset = relationship('cutural_asset')
+    cultural_asset = relationship('cultural_asset')
 
 
     __tablename__ = 'cultural_asset_en'

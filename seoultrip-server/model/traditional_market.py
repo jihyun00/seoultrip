@@ -26,13 +26,13 @@ class TraditionalMarket(Base):
 
     category_id = Column(Integer, ForeignKey('category.id'), nullable=False)
 
-    lang_id = Column(Integer, ForeignKey('lang.id'), nullable=False)
+    lang_id = Column(Integer, ForeignKey('language.id'), nullable=False)
 
     region = relationship('region')
 
     category = relationship('category')
 
-    lang = relationship('lang')
+    language = relationship('language')
 
 
     __tablename__ = 'traditional_market'
@@ -55,7 +55,7 @@ class TraditionalMarketEn(Base):
 
     category_id = Column(Integer, ForeignKey('category.id'), nullable=False)
 
-    lang_id = Column(Integer, ForeignKey('lang.id'), nullable=False)
+    lang_id = Column(Integer, ForeignKey('language.id'), nullable=False)
 
     traditional_market_id = Column(Integer, ForeignKey('traditional_market.id'), nullable=False)
 
@@ -63,7 +63,7 @@ class TraditionalMarketEn(Base):
 
     category = relationship('category')
 
-    lang = relationship('lang')
+    language = relationship('language')
 
     traditional_market = relationship('traditional_market')
 

@@ -16,9 +16,9 @@ class Comment(Base):
 
     content = Column(String, nullable=False)
 
-    faculty_id = Column(Integer, ForeignKey('Faculty.id'), nullable=False)
+    faculty_id = Column(Integer, ForeignKey('faculty.id'), nullable=False)
 
-    user_id = Column(Integer, ForeignKey('User.id'), nullable=False)
+    user_id = Column(Integer, ForeignKey('user.id'), nullable=False)
 
     faculty = relationship('faculty')
 

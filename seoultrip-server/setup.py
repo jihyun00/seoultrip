@@ -4,6 +4,7 @@ install_requires = [
     'flask == 0.10.1',
     'sqlalchemy >= 1.0.0, < 1.1',
     'requests == 2.8.0',
+    'alembic >= 0.7.4, < 0.9.0',
 ]
 
 

@@ -3,3 +3,4 @@
 venv/
 seoultrip.egg-info/
 __pycache__
+model/seoultrip.db

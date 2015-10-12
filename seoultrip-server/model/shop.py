@@ -24,13 +24,13 @@ class Shop(Base):
 
     category_id = Column(Integer, ForeignKey('category.id'), nullable=False)
 
-    lang_id = Column(Integer, ForeignKey('lang.id'), nullable=False)
+    lang_id = Column(Integer, ForeignKey('language.id'), nullable=False)
 
     region = relationship('region')
 
     category = relationship('category')
 
-    lang = relationship('lang')
+    language = relationship('language')
 
 
     __tablename__ = 'shop'
@@ -51,7 +51,7 @@ class ShopEn(Base):
 
     category_id = Column(Integer, ForeignKey('category.id'), nullable=False)
 
-    lang_id = Column(Integer, ForeignKey('lang.id'), nullable=False)
+    lang_id = Column(Integer, ForeignKey('language.id'), nullable=False)
 
     shop_id = Column(Integer, ForeignKey('shop.id'), nullable=False)
 
@@ -59,10 +59,9 @@ class ShopEn(Base):
 
     category = relationship('category')
 
-    lang = relationship('lang')
+    language = relationship('language')
 
     shop = relationship('shop')
 
 
     __tablename__ = 'shop_en'
-
