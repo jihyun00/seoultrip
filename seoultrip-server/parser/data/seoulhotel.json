@@ -1,0 +1,261 @@
+{"DESCRIPTION":{"IDX":"연번","CGG_NM":"자치구","GRADE":"등급","HOTEL_NM":"호텔명","COOP_NM":"법인명","ADD_FACTY":"부대시설현황","NOF_RM":"객실수","ADDR_URL":"소재지/홈페이지주소","REG_DATE":"등록연월(변경등록)"}
+, "DATA":[
+{"IDX":"1","CGG_NM":"종로구","GRADE":"3급","HOTEL_NM":"삼호관광호텔","COOP_NM":"윤시한,유영열","ADD_FACTY":"일반음식점(지상2층) / 미용업,사우나(지상3층)","NOF_RM":"50","ADDR_URL":"종로구 창신동 436-73 (청계천로 341)","REG_DATE":"1970-05-01(2014-11-03)"}
+,{"IDX":"1","CGG_NM":"종로구","GRADE":"2급","HOTEL_NM":"동대문관광호텔","COOP_NM":"㈜송일기업","ADD_FACTY":"휴게음식점,<br>사우나","NOF_RM":"52","ADDR_URL":"종로구 창신동 444-14","REG_DATE":"1968-05-01"}
+,{"IDX":"1","CGG_NM":"영등포구","GRADE":"소형호텔","HOTEL_NM":"호텔컬러스레드","COOP_NM":"김명윤","ADD_FACTY":"","NOF_RM":"27","ADDR_URL":"영등포구 양평동3가 30-8 (양산로1길 3-1)","REG_DATE":"2015-02-25"}
+,{"IDX":"1","CGG_NM":"종로구","GRADE":"호스텔","HOTEL_NM":"Stay in GAM","COOP_NM":"","ADD_FACTY":"","NOF_RM":"15","ADDR_URL":"서울 종로구 율곡로 10길 12","REG_DATE":"2012-11-28"}
+,{"IDX":"1","CGG_NM":"종로구","GRADE":"-","HOTEL_NM":"라마다 서울 종로 ","COOP_NM":"㈜폴앤파트너스 <br>신상범","ADD_FACTY":"","NOF_RM":"139","ADDR_URL":"종로구 안의동 48-26","REG_DATE":"2014-01-09"}
+,{"IDX":"1","CGG_NM":"종로구","GRADE":"특1급","HOTEL_NM":"JW 메리어트<br>동대문 스퀘어 서울","COOP_NM":"박용민 ","ADD_FACTY":"","NOF_RM":"170","ADDR_URL":"종로구 청계천로 279(종로6가 289-3외 1필지)","REG_DATE":"2013-12-30"}
+,{"IDX":"1","CGG_NM":"종로구","GRADE":"특2급","HOTEL_NM":"센터마크호텔","COOP_NM":"㈜센터마크호텔","ADD_FACTY":"","NOF_RM":"250","ADDR_URL":"종로구 관훈동 198-42<br>www.centermarkhotel.com","REG_DATE":"2012-11-09"}
+,{"IDX":"1","CGG_NM":"영등포구","GRADE":"가족호텔","HOTEL_NM":"매리엇이그제큐티브아파트먼트서울","COOP_NM":"아프라나서울㈜","ADD_FACTY":"","NOF_RM":"103","ADDR_URL":"서울 영등포구 여의도동 28","REG_DATE":"2007-08-01"}
+,{"IDX":"1","CGG_NM":"종로구","GRADE":"1급","HOTEL_NM":"호텔크라운인사동","COOP_NM":"㈜종로크라운","ADD_FACTY":"휴게음식점","NOF_RM":"80","ADDR_URL":"종로구 낙원동 25<br>www.hotelcrown.com","REG_DATE":"1980-04-01"}
+,{"IDX":"2","CGG_NM":"종로구","GRADE":"3급","HOTEL_NM":"서울YMCA관광호텔","COOP_NM":"(재)서울기독교<br>청년회유지재단","ADD_FACTY":"레스토랑","NOF_RM":"30","ADDR_URL":"종로구 종로2가 9<br>www.ymca.or.kr/hotel","REG_DATE":"1967-04-03"}
+,{"IDX":"2","CGG_NM":"종로구","GRADE":"2급","HOTEL_NM":"센츄럴관광호텔","COOP_NM":"㈜센츄럴","ADD_FACTY":"휴게음식점","NOF_RM":"78","ADDR_URL":"종로구 장사동 227-1","REG_DATE":"1969-05-01"}
+,{"IDX":"2","CGG_NM":"영등포구","GRADE":"소형호텔","HOTEL_NM":"호텔컬러스블루","COOP_NM":"정구민","ADD_FACTY":"","NOF_RM":"27","ADDR_URL":"영등포구 양평동3가 30-26 (양산로1길 5)","REG_DATE":"2015-02-25"}
+,{"IDX":"2","CGG_NM":"종로구","GRADE":"호스텔","HOTEL_NM":"ICON","COOP_NM":"","ADD_FACTY":"","NOF_RM":"28","ADDR_URL":"종로구 삼일대로 32가길 20","REG_DATE":"2013-01-28"}
+,{"IDX":"2","CGG_NM":"중구","GRADE":"-","HOTEL_NM":"신신호텔 2","COOP_NM":"한성수력산업㈜<br>김화영","ADD_FACTY":"","NOF_RM":"45","ADDR_URL":"서울시 중구 남대문로5길 17-5<br>(북창동)","REG_DATE":"2013-06-19"}
+,{"IDX":"2","CGG_NM":"중구","GRADE":"특1급","HOTEL_NM":"호텔 롯데","COOP_NM":"(주)호텔롯데","ADD_FACTY":"","NOF_RM":"1151","ADDR_URL":"서울 중구 소공동 1<br>www.hotel.lotte.co.kr","REG_DATE":"1987-08-11"}
+,{"IDX":"2","CGG_NM":"종로구","GRADE":"특2급","HOTEL_NM":"호텔 아벤트리종로","COOP_NM":"㈜아벤트리종로","ADD_FACTY":"","NOF_RM":"155","ADDR_URL":"종로구 견지동 65-1<br>www.aventreehotel.com","REG_DATE":"2012-09-28"}
+,{"IDX":"2","CGG_NM":"종로구","GRADE":"가족호텔","HOTEL_NM":"프레이저스위츠<br>서울가족호텔","COOP_NM":"금보개발","ADD_FACTY":"","NOF_RM":"213","ADDR_URL":"서울 종로구 낙원동 272(인사동4길18)<br>www.frasersuiteseoul.co.kr","REG_DATE":"2007-09-01"}
+,{"IDX":"2","CGG_NM":"종로구","GRADE":"1급","HOTEL_NM":"이비스앰배서더 서울인사동","COOP_NM":"주명건","ADD_FACTY":"","NOF_RM":"363","ADDR_URL":"종로구 익선동 34-8","REG_DATE":"2013-09-27"}
+,{"IDX":"3","CGG_NM":"종로구","GRADE":"2급","HOTEL_NM":"동화킴스관광호텔","COOP_NM":"서석해","ADD_FACTY":"휴게음식점","NOF_RM":"51","ADDR_URL":"종로구 평창동 66-50<br>www.kimshotel.co.kr","REG_DATE":"1990-04-02"}
+,{"IDX":"3","CGG_NM":"종로구","GRADE":"3급","HOTEL_NM":"노블관광호텔","COOP_NM":"김병호","ADD_FACTY":"","NOF_RM":"34","ADDR_URL":"종로구 율곡로6길 13-3","REG_DATE":"2013-05-03"}
+,{"IDX":"3","CGG_NM":"종로구","GRADE":"호스텔","HOTEL_NM":"옐로우브릭 호스텔","COOP_NM":"㈜레지던스월드","ADD_FACTY":"","NOF_RM":"37","ADDR_URL":"종로구 삼일대로 32가길 33","REG_DATE":"2013-02-14"}
+,{"IDX":"3","CGG_NM":"중구","GRADE":"-","HOTEL_NM":"티마크호텔","COOP_NM":" ㈜마크호텔","ADD_FACTY":"","NOF_RM":"288","ADDR_URL":"중구 충무로 15 (충무로3가)","REG_DATE":"2013-10-16"}
+,{"IDX":"3","CGG_NM":"중구","GRADE":"특1급","HOTEL_NM":"서울 신라호텔","COOP_NM":"(주)호텔신라","ADD_FACTY":"","NOF_RM":"464","ADDR_URL":"서울 중구 장충동2가 202<br>www.shilla.net","REG_DATE":"1978-12-23"}
+,{"IDX":"3","CGG_NM":"종로구","GRADE":"특2급","HOTEL_NM":"호텔 세븐스트리트","COOP_NM":"㈜금도유니버셜","ADD_FACTY":"식당<br>커피숍","NOF_RM":"163","ADDR_URL":"종로구 관수동 125-1<br>www.sutton.co.kr","REG_DATE":"2012-04-04(2014-01-16)"}
+,{"IDX":"3","CGG_NM":"중구","GRADE":"가족호텔","HOTEL_NM":"반얀트리 클럽앤호텔 서울","COOP_NM":"에이블현대호텔<br>앤리조트(주)","ADD_FACTY":"","NOF_RM":"50","ADDR_URL":"서울 중구 장충동2가 산5-5<br>www.towerhotel.co.kr","REG_DATE":"1987-07-08"}
+,{"IDX":"3","CGG_NM":"중구","GRADE":"1급","HOTEL_NM":"서울렉스호텔","COOP_NM":"(주)남강건설회관","ADD_FACTY":"","NOF_RM":"108","ADDR_URL":"서울 중구 회현동1가 65<br>www.hotelrex.co.kr","REG_DATE":"1970-01-12"}
+,{"IDX":"4","CGG_NM":"용산구","GRADE":"2급","HOTEL_NM":"가야관광호텔","COOP_NM":"","ADD_FACTY":"3","NOF_RM":"51","ADDR_URL":"용산구 갈월동 98-11번지 <br>http://www.kayahotel.net/","REG_DATE":"1990-01-16"}
+,{"IDX":"4","CGG_NM":"중구","GRADE":"3급","HOTEL_NM":"뉴오리엔탈 <br>관광호텔","COOP_NM":"(주)뉴오리엔탈<br>관광호텔","ADD_FACTY":"","NOF_RM":"65","ADDR_URL":"서울 중구 회현동3가 10(퇴계로14길 1)","REG_DATE":"1987-07-10"}
+,{"IDX":"4","CGG_NM":"종로구","GRADE":"호스텔","HOTEL_NM":"옐로우브릭 호스텔2","COOP_NM":"㈜레지던스월드","ADD_FACTY":"","NOF_RM":"21","ADDR_URL":"종로구 돈화문로 66","REG_DATE":"2013-04-08"}
+,{"IDX":"4","CGG_NM":"성동구","GRADE":"-","HOTEL_NM":"JJ  HOTEL","COOP_NM":"김광수","ADD_FACTY":"","NOF_RM":"30","ADDR_URL":"성동구 용답동 228-6","REG_DATE":"2013-02-06"}
+,{"IDX":"4","CGG_NM":"중구","GRADE":"특1급","HOTEL_NM":"밀레니엄서울 힐튼","COOP_NM":"(주)씨디엘<br>호텔코리아","ADD_FACTY":"","NOF_RM":"679","ADDR_URL":"서울 중구 남대문로5가 395(소월로50)<br>www.millenniumseoulhilton.co.kr","REG_DATE":"1989-05-04"}
+,{"IDX":"4","CGG_NM":"중구","GRADE":"특2급","HOTEL_NM":"서울 로얄호텔","COOP_NM":"대한관광<br>개발(주)","ADD_FACTY":"","NOF_RM":"312","ADDR_URL":"서울 중구 명동1가 6<br>www.seoulroyal.co.kr","REG_DATE":"1987-09-07"}
+,{"IDX":"4","CGG_NM":"중구","GRADE":"가족호텔","HOTEL_NM":"디에스디엘㈜ <br>프레이저 플레이스<br>센트럴 서울","COOP_NM":"디에스디엘","ADD_FACTY":"","NOF_RM":"258","ADDR_URL":"중구 순화동 214외1<br>www.fraserplace.co.kr","REG_DATE":"2008-10-22"}
+,{"IDX":"4","CGG_NM":"중구","GRADE":"1급","HOTEL_NM":"뉴국제호텔","COOP_NM":"(유)뉴국제호텔","ADD_FACTY":"","NOF_RM":"142","ADDR_URL":"서울 중구 태평로1가 29-2<br>www.newkukjehotel.com","REG_DATE":"1977-02-28"}
+,{"IDX":"5","CGG_NM":"성동구","GRADE":"2급","HOTEL_NM":"비젼관광호텔","COOP_NM":"변대석","ADD_FACTY":"유흥주점","NOF_RM":"64","ADDR_URL":"서울 성동구 도선동 2/<br>www.hotelvision.co.kr/","REG_DATE":"2005-04-29"}
+,{"IDX":"5","CGG_NM":"중구","GRADE":"3급","HOTEL_NM":"호텔 파레스","COOP_NM":"","ADD_FACTY":"","NOF_RM":"52","ADDR_URL":"서울 중구 회현동1가 92-6","REG_DATE":"2006-09-15"}
+,{"IDX":"5","CGG_NM":"종로구","GRADE":"호스텔","HOTEL_NM":"포춘 호스텔","COOP_NM":"박영록","ADD_FACTY":"","NOF_RM":"18","ADDR_URL":"종로구 삼일대로 32길 38","REG_DATE":"2013-05-10"}
+,{"IDX":"5","CGG_NM":"성동구","GRADE":"-","HOTEL_NM":"호텔컬리넌 도선","COOP_NM":"조순관","ADD_FACTY":"","NOF_RM":"70","ADDR_URL":"성동구 무학로2길 47(도선동)","REG_DATE":"2013-12-23"}
+,{"IDX":"5","CGG_NM":"중구","GRADE":"특1급","HOTEL_NM":"플라자호텔","COOP_NM":"한화호텔앤드<br>리조트(주)","ADD_FACTY":"","NOF_RM":"415","ADDR_URL":"서울 중구 태평로2가 23<br>www.seoulplaza.co.kr","REG_DATE":"1976-09-01"}
+,{"IDX":"5","CGG_NM":"중구","GRADE":"특2급","HOTEL_NM":"호텔프레지던트","COOP_NM":"백남관광㈜","ADD_FACTY":"","NOF_RM":"303","ADDR_URL":"서울 중구 을지로1가 188-3<br>www.hotelpresident.co.kr","REG_DATE":"1969-03-28"}
+,{"IDX":"5","CGG_NM":"중구","GRADE":"가족호텔","HOTEL_NM":"프레이저플레이스 <br>남대문 서울","COOP_NM":"디에스디엘","ADD_FACTY":"","NOF_RM":"252","ADDR_URL":"중구 세종대로 58<br>(남대문로 4가)","REG_DATE":"2013-06-07"}
+,{"IDX":"5","CGG_NM":"중구","GRADE":"1급","HOTEL_NM":"베스트웨스턴 뉴서울호텔","COOP_NM":"(주)뉴서울호텔","ADD_FACTY":"","NOF_RM":"186","ADDR_URL":"서울 중구 태평로1가 29-1<br>www.bestwesternnewseoul.com","REG_DATE":"1969-10-15"}
+,{"IDX":"6","CGG_NM":"동대문구","GRADE":"2급","HOTEL_NM":"부림관광호텔","COOP_NM":"(주)뉴부림호텔","ADD_FACTY":"커피숖","NOF_RM":"54","ADDR_URL":" 전농동 620-27번지 ","REG_DATE":"1984-02-15"}
+,{"IDX":"6","CGG_NM":"성동구","GRADE":"3급","HOTEL_NM":"아모렉스 관광호텔","COOP_NM":"㈜윤현디엔씨","ADD_FACTY":"일식 식당","NOF_RM":"56","ADDR_URL":"서울 성동구 도선동 72/<br>http://www.amourexhotel.com/ ","REG_DATE":"2008-09-09"}
+,{"IDX":"6","CGG_NM":"종로구","GRADE":"호스텔","HOTEL_NM":"호스텔코리아","COOP_NM":"권진수","ADD_FACTY":"","NOF_RM":"30","ADDR_URL":"종로구 돈화문로 85(와룡동)","REG_DATE":"2013-05-24"}
+,{"IDX":"6","CGG_NM":"광진구","GRADE":"-","HOTEL_NM":"더클래식500<br>펜타즈호텔","COOP_NM":"학교법인 <br>건국대학교","ADD_FACTY":"라운지바(1)","NOF_RM":"84","ADDR_URL":"능동로 92 www.theclassic500.com","REG_DATE":"2012-05-09(2015-02-02)"}
+,{"IDX":"6","CGG_NM":"중구","GRADE":"특1급","HOTEL_NM":"더웨스틴조선서울","COOP_NM":"㈜신세계조선호텔","ADD_FACTY":"","NOF_RM":"462","ADDR_URL":"서울 중구 소공로 106(소공동)<br>www.westinchosun.co.kr","REG_DATE":"1970-06-05"}
+,{"IDX":"6","CGG_NM":"중구","GRADE":"특2급","HOTEL_NM":"코리아나호텔","COOP_NM":"(주)코리아나<br>호텔","ADD_FACTY":"","NOF_RM":"337","ADDR_URL":"서울 중구 태평로1가 61-1<br>www.koreanahotel.com","REG_DATE":"1987-07-08"}
+,{"IDX":"6","CGG_NM":"마포구","GRADE":"가족호텔","HOTEL_NM":"까사빌 신촌 서울","COOP_NM":"㈜H.T.C","ADD_FACTY":"없음","NOF_RM":"103","ADDR_URL":"마포구 서강로 137(노고산동)","REG_DATE":"2012-03-08(2014-12-22)"}
+,{"IDX":"6","CGG_NM":"중구","GRADE":"1급","HOTEL_NM":"사보이호텔","COOP_NM":"(주)사보이호텔","ADD_FACTY":"","NOF_RM":"105","ADDR_URL":"서울 중구 충무로1가 23-1<br>www.savoyhotel.co.kr","REG_DATE":"1963-06-23"}
+,{"IDX":"7","CGG_NM":"성북구","GRADE":"2급","HOTEL_NM":"브라운관광호텔","COOP_NM":"신학주외4인","ADD_FACTY":"유흥주점,  휴게음식점,<br>일반음식점","NOF_RM":"50","ADDR_URL":"성북구 보문동4가77-2","REG_DATE":"1991-04-13"}
+,{"IDX":"7","CGG_NM":"동대문구","GRADE":"3급","HOTEL_NM":"BORJOMI BOUTIQUE SEOUL","COOP_NM":"이재갑","ADD_FACTY":"","NOF_RM":"36","ADDR_URL":"동대문구 천호대로83길 98(장안동)","REG_DATE":"2014-02-25"}
+,{"IDX":"7","CGG_NM":"종로구","GRADE":"호스텔","HOTEL_NM":"호스텔코리아 10호점","COOP_NM":"김학노","ADD_FACTY":"","NOF_RM":"9","ADDR_URL":"종로구 종로 382(숭인동 200-33)","REG_DATE":"2014-02-04"}
+,{"IDX":"7","CGG_NM":"동대문구","GRADE":"-","HOTEL_NM":"BENIKEA Hotel 플라워","COOP_NM":"","ADD_FACTY":"회의실 ","NOF_RM":"38","ADDR_URL":" 청량리동 30-6번지 ","REG_DATE":"2011-11-04"}
+,{"IDX":"7","CGG_NM":"중구","GRADE":"특1급","HOTEL_NM":"그랜드앰배서더서울","COOP_NM":"(주)서한사","ADD_FACTY":"","NOF_RM":"413","ADDR_URL":"서울 중구 장충동2가 186-54<br>www.ambatel.com","REG_DATE":"1975-12-02"}
+,{"IDX":"7","CGG_NM":"중구","GRADE":"특2급","HOTEL_NM":"세종호텔서울","COOP_NM":"세종투자<br>개발㈜","ADD_FACTY":"","NOF_RM":"333","ADDR_URL":"서울 중구 충무로2가 61-3<br>www.sejong.co.kr","REG_DATE":"1973-12-24"}
+,{"IDX":"7","CGG_NM":"마포구","GRADE":"가족호텔","HOTEL_NM":"더 엠 호텔","COOP_NM":"","ADD_FACTY":"없음","NOF_RM":"56","ADDR_URL":"마포구 월드컵북로 120<br>www.hotelthem.com/","REG_DATE":"2012-10-22"}
+,{"IDX":"7","CGG_NM":"중구","GRADE":"1급","HOTEL_NM":"프린스호텔","COOP_NM":"(주)서울프린스호텔","ADD_FACTY":"","NOF_RM":"100","ADDR_URL":"서울 중구 남산동2가 1-1<br>www.hotelprinceseoul.com","REG_DATE":"1969-04-15"}
+,{"IDX":"8","CGG_NM":"은평구","GRADE":"2급","HOTEL_NM":"프라임인서울호텔","COOP_NM":"㈜프라임인서울호텔","ADD_FACTY":"레스토랑, 커피숍","NOF_RM":"64","ADDR_URL":"불광동 302-13<br>/www.primeseoul.com","REG_DATE":"1929-10-19"}
+,{"IDX":"8","CGG_NM":"중랑구","GRADE":"3급","HOTEL_NM":"메이관광호텔","COOP_NM":"호텔메이","ADD_FACTY":"","NOF_RM":"49","ADDR_URL":"서울 중랑구 상봉동 89-3<br>www.hotelmai.com","REG_DATE":"2004-08-01"}
+,{"IDX":"8","CGG_NM":"종로구","GRADE":"호스텔","HOTEL_NM":"24게스트하우스 인사동","COOP_NM":"나관석","ADD_FACTY":"","NOF_RM":"25","ADDR_URL":"종로구 삼일대로17길8(관철동 7-5)","REG_DATE":"2014-02-14(2014-07-28)"}
+,{"IDX":"8","CGG_NM":"동대문구","GRADE":"-","HOTEL_NM":"K city HOTEL","COOP_NM":"(주)아시시","ADD_FACTY":"","NOF_RM":"38","ADDR_URL":"동대문구 왕산로 192-2(전농동)","REG_DATE":"2014-02-27"}
+,{"IDX":"8","CGG_NM":"용산구","GRADE":"특1급","HOTEL_NM":"서울미라마(유)<br>그랜드하얏트서울","COOP_NM":"서울미라마(유)","ADD_FACTY":"","NOF_RM":"607","ADDR_URL":"서울시 용산구 한남동 747-7 <br>http://seoul.grand.hyatt.kr/","REG_DATE":"1978-05-15"}
+,{"IDX":"8","CGG_NM":"중구","GRADE":"특2급","HOTEL_NM":"퍼시픽호텔","COOP_NM":"(주)퍼시픽호텔","ADD_FACTY":"","NOF_RM":"181","ADDR_URL":"서울 중구 남산동2가 31-1<br>www.thepacifichotel.co.kr","REG_DATE":"1975-02-14"}
+,{"IDX":"8","CGG_NM":"서초구","GRADE":"가족호텔","HOTEL_NM":"프로비스타 가족호텔","COOP_NM":"㈜프로비스타","ADD_FACTY":"음식점, 커피숍, 비즈니스센터, 운동시설","NOF_RM":"170","ADDR_URL":"서울 서초구 서초동 1677-8<br>www.provista.co.kr","REG_DATE":"2007-01-01"}
+,{"IDX":"8","CGG_NM":"중구","GRADE":"1급","HOTEL_NM":"메트로호텔","COOP_NM":"(주)메트로호텔","ADD_FACTY":"","NOF_RM":"75","ADDR_URL":"서울 중구 을지로2가 199-33<br>www.metrohotel.co.kr","REG_DATE":"1963-06-26"}
+,{"IDX":"9","CGG_NM":"양천구","GRADE":"2급","HOTEL_NM":"캠프 관광호텔","COOP_NM":"이기화, 이승희","ADD_FACTY":"","NOF_RM":"50","ADDR_URL":"양천구 가로공원길126<br>(신월동 87-13)","REG_DATE":"2013-10-17"}
+,{"IDX":"9","CGG_NM":"강북구","GRADE":"3급","HOTEL_NM":"리치다이아몬드 호텔","COOP_NM":"위태국","ADD_FACTY":"","NOF_RM":"76","ADDR_URL":"서울 강북구 삼양로 500-18 <br>(수유동 274-1)","REG_DATE":"2013-10-25"}
+,{"IDX":"9","CGG_NM":"종로구","GRADE":"호스텔","HOTEL_NM":"미오하우스","COOP_NM":"Lee Esther Hwa","ADD_FACTY":"","NOF_RM":"10","ADDR_URL":"종로구 청계천로 229(종로5가 314-7)","REG_DATE":"2014-01-22"}
+,{"IDX":"9","CGG_NM":"중랑구","GRADE":"-","HOTEL_NM":"더홀릭관광호텔","COOP_NM":"","ADD_FACTY":"","NOF_RM":"69","ADDR_URL":"서울시 중랑구 상봉동 90-3","REG_DATE":"2011-11-20"}
+,{"IDX":"9","CGG_NM":"광진구","GRADE":"특1급","HOTEL_NM":"워커힐호텔","COOP_NM":"㈜SK네트웍스<br>워커힐","ADD_FACTY":"제과점(2), 일반음식점(21),식품제조가공업(1), 단란주점(2), 카지노(1), 실내수영장(2), 실외수영장(1), 골프연습장(1), 약국(1), 의료시설(1), 면세점(1), 사우나(2), 이용실(2), 미용실(2)","NOF_RM":"930","ADDR_URL":"광진구 워커힐로 177     www.walkerhill.co.kr","REG_DATE":"1963-08-22"}
+,{"IDX":"9","CGG_NM":"중구","GRADE":"특2급","HOTEL_NM":"호텔 PJ","COOP_NM":"오일관광㈜<br>풍전호텔","ADD_FACTY":"","NOF_RM":"271","ADDR_URL":"서울 중구 인현동2가 73-1<br>www.poongjun.net","REG_DATE":"1970-07-01"}
+,{"IDX":"9","CGG_NM":"서대문구","GRADE":"가족호텔","HOTEL_NM":"신촌 EVER8 레지던스 호텔","COOP_NM":"㈜에버에이트","ADD_FACTY":"","NOF_RM":"57","ADDR_URL":"신촌역로7(대현동 104-5외 11필지)","REG_DATE":"2014-12-23"}
+,{"IDX":"9","CGG_NM":"중구","GRADE":"1급","HOTEL_NM":"이비스앰배서더 명동","COOP_NM":"(주)앰배스텔","ADD_FACTY":"","NOF_RM":"280","ADDR_URL":"서울 중구 명동1가 59-5<br>ibis.ambatel.com/myeongdong","REG_DATE":"2007-07-03"}
+,{"IDX":"10","CGG_NM":"강서구","GRADE":"2급","HOTEL_NM":"에어포트 관광호텔","COOP_NM":"-","ADD_FACTY":"연회장, 유흥주점, 일반음식점","NOF_RM":"40","ADDR_URL":"강서구 공항동 11-21<br>www.hotelairport.co.kr","REG_DATE":"1988-10-17"}
+,{"IDX":"10","CGG_NM":"도봉구","GRADE":"3급","HOTEL_NM":"소피아","COOP_NM":"원정례져산업","ADD_FACTY":"2","NOF_RM":"51","ADDR_URL":"서울 도봉구 쌍문동 88-1","REG_DATE":"1990-08-21"}
+,{"IDX":"10","CGG_NM":"종로구","GRADE":"호스텔","HOTEL_NM":"24guesthouse 동대문마켓점","COOP_NM":"김병호","ADD_FACTY":"","NOF_RM":"10","ADDR_URL":"종로구 종로46길 22 5층","REG_DATE":"2014-05-08"}
+,{"IDX":"10","CGG_NM":"성북구","GRADE":"-","HOTEL_NM":"D.H 르네상스","COOP_NM":"김영균/이경애","ADD_FACTY":"일반음식점","NOF_RM":"30","ADDR_URL":"성북구 동선동1가92-20","REG_DATE":"2011-12-14"}
+,{"IDX":"10","CGG_NM":"서대문구","GRADE":"특1급","HOTEL_NM":"그랜드힐튼호텔","COOP_NM":"(유)동원아이엔씨","ADD_FACTY":"식당,체육시설업,은행 등","NOF_RM":"503","ADDR_URL":"서울 서대문구 홍은동 201-1<br>www.grandhiltonseoul.com","REG_DATE":"2012-05-31"}
+,{"IDX":"10","CGG_NM":"중구","GRADE":"특2급","HOTEL_NM":"베스트웨스턴프리미어호텔국도 ","COOP_NM":"국도관광개발(주)","ADD_FACTY":"","NOF_RM":"295","ADDR_URL":"서울 중구 을지로4가 310 www.hotelkukdo.com","REG_DATE":"2007-04-03"}
+,{"IDX":"10","CGG_NM":"강남구","GRADE":"가족호텔","HOTEL_NM":"오크우드프리미어","COOP_NM":"한무컨벤션㈜","ADD_FACTY":"피트니스,수영장,식당","NOF_RM":"280","ADDR_URL":"서울 강남구 삼성동 159외 1(테헤란로87길 46)<br>www.oakwoodpremier.co.kr ","REG_DATE":"2001-10-30"}
+,{"IDX":"10","CGG_NM":"중구","GRADE":"1급","HOTEL_NM":"아스토리아 호텔","COOP_NM":"동곡상사(주)","ADD_FACTY":"","NOF_RM":"80","ADDR_URL":"서울 중구 남학동 13-2","REG_DATE":"1960-06-10"}
+,{"IDX":"11","CGG_NM":"강서구","GRADE":"2급","HOTEL_NM":"뉴리젠트 관광호텔","COOP_NM":"㈜대흥레져","ADD_FACTY":"커피숍, 유흥주점, 목욕장","NOF_RM":"40","ADDR_URL":"강서구 화곡동 1111-7외 1필지","REG_DATE":"1989-10-25"}
+,{"IDX":"11","CGG_NM":"은평구","GRADE":"3급","HOTEL_NM":"벨라지오관광호텔","COOP_NM":"","ADD_FACTY":"커피숍, 노래방","NOF_RM":"52","ADDR_URL":"불광동 285-14","REG_DATE":"2005-11-15"}
+,{"IDX":"11","CGG_NM":"마포구","GRADE":"호스텔","HOTEL_NM":"호스텔 코리아","COOP_NM":"이광재, 이한직","ADD_FACTY":"","NOF_RM":"8","ADDR_URL":"마포구 동교로 217","REG_DATE":"2014-10-28"}
+,{"IDX":"11","CGG_NM":"마포구","GRADE":"-","HOTEL_NM":"호텔야자","COOP_NM":"(주)호텔365 박정현","ADD_FACTY":"없음","NOF_RM":"42","ADDR_URL":"마포구 서교동 377-1<br>hotelyouyang.com/(잔다리로67)","REG_DATE":"2001-05-11"}
+,{"IDX":"11","CGG_NM":"강서구","GRADE":"특1급","HOTEL_NM":"메이필드호텔","COOP_NM":"정림개발㈜","ADD_FACTY":"유흥주점, 일반음식점, 휴게음식점,<br>체육시설, 골프연습장, 목용장, 소매점","NOF_RM":"239","ADDR_URL":"강서구 외발산동 426외 1필지<br>www.mayfield.co.kr","REG_DATE":"2002-07-15"}
+,{"IDX":"11","CGG_NM":"용산구","GRADE":"특2급","HOTEL_NM":"(주)호텔캐피탈","COOP_NM":"(주)호텔캐피탈","ADD_FACTY":"28","NOF_RM":"286","ADDR_URL":"용산구 이태원동 22-76번지 /<br>www.hotelcapital.co.kr","REG_DATE":"1998-08-22"}
+,{"IDX":"11","CGG_NM":"중구","GRADE":"1급","HOTEL_NM":"호텔아카시아","COOP_NM":"(주)인세인","ADD_FACTY":"","NOF_RM":"134","ADDR_URL":"서울 중구 을지로5가 99<br>www.hotelacacia.co.kr","REG_DATE":"2009-09-22"}
+,{"IDX":"12","CGG_NM":"영등포구","GRADE":"2급","HOTEL_NM":"㈜도도관광호텔","COOP_NM":"","ADD_FACTY":"","NOF_RM":"55","ADDR_URL":"서울 영등포구 영등포동2가 94-154","REG_DATE":"1996-01-01"}
+,{"IDX":"12","CGG_NM":"서초구","GRADE":"3급","HOTEL_NM":"유원메이트관광호텔","COOP_NM":"유원메이트관광호텔㈜","ADD_FACTY":"주점, 일반음식점, 미용원","NOF_RM":"73","ADDR_URL":"서울 서초구 서초동 1589-4<br>www.yuwonmatehotel.co.kr","REG_DATE":"2011-11-14"}
+,{"IDX":"12","CGG_NM":"종로구","GRADE":"호스텔","HOTEL_NM":"호스텔 클로이","COOP_NM":"한수연","ADD_FACTY":"","NOF_RM":"18","ADDR_URL":"종로구 종로16길 32-4(관철동 35-1)","REG_DATE":"2014-06-03"}
+,{"IDX":"12","CGG_NM":"마포구","GRADE":"-","HOTEL_NM":"써클호텔","COOP_NM":"","ADD_FACTY":"양식당","NOF_RM":"40","ADDR_URL":"마포구 합정동 382-17<br>www.circlehotel.co.kr/","REG_DATE":"2005-04-14"}
+,{"IDX":"12","CGG_NM":"구로구","GRADE":"특1급","HOTEL_NM":"쉐라톤서울 <br>디큐브시티호텔","COOP_NM":"대성산업㈜","ADD_FACTY":"피트니스, 사우나, 스파, 수영장, Bar, 식당, 연회장, 비지니스센터","NOF_RM":"269","ADDR_URL":"서울 구로구 신도림동 692","REG_DATE":"2011-09-08"}
+,{"IDX":"12","CGG_NM":"성북구","GRADE":"특2급","HOTEL_NM":"홀리데이인 서울 성북","COOP_NM":"우영개발㈜","ADD_FACTY":"양식당,중식당,휴게음식점,<br>제과점, 일반음식점(연회장), 체력단련장","NOF_RM":"128","ADDR_URL":"성북구 종암동3-1343","REG_DATE":"1990-04-07"}
+,{"IDX":"12","CGG_NM":"중구","GRADE":"1급","HOTEL_NM":"호텔마누","COOP_NM":"남풍산업(주)","ADD_FACTY":"","NOF_RM":"90","ADDR_URL":"서울시 중구 퇴계로 90<br>www.hotelmanu.com","REG_DATE":"2012-11-30"}
+,{"IDX":"13","CGG_NM":"영등포구","GRADE":"2급","HOTEL_NM":"R관광호텔","COOP_NM":"","ADD_FACTY":"","NOF_RM":"92","ADDR_URL":"서울 영등포구 영등포동1가 121-6","REG_DATE":"2009-09-01"}
+,{"IDX":"13","CGG_NM":"강남구","GRADE":"3급","HOTEL_NM":"렉스관광호텔","COOP_NM":"","ADD_FACTY":"Bar,식당","NOF_RM":"63","ADDR_URL":"서울 강남구 논현1동 18-2","REG_DATE":"2004-05-13"}
+,{"IDX":"13","CGG_NM":"종로구","GRADE":"호스텔","HOTEL_NM":"에이메스호텔","COOP_NM":"㈜어반아이콘","ADD_FACTY":"","NOF_RM":"30","ADDR_URL":"종로구 율곡로 10길 11","REG_DATE":"2015-01-27"}
+,{"IDX":"13","CGG_NM":"마포구","GRADE":"-","HOTEL_NM":"메리골드호텔","COOP_NM":"현종필","ADD_FACTY":"","NOF_RM":"186","ADDR_URL":"마포구 양화로 112","REG_DATE":"2013-02-05"}
+,{"IDX":"13","CGG_NM":"영등포구","GRADE":"특1급","HOTEL_NM":"콘래드서울호텔","COOP_NM":"에스아이에프씨 <br>호텔 디벨로프먼트㈜","ADD_FACTY":"","NOF_RM":"434","ADDR_URL":"서울영등포구여의도동23","REG_DATE":"2012-10-01"}
+,{"IDX":"13","CGG_NM":"마포구","GRADE":"특2급","HOTEL_NM":"베스트웨스턴프리미어<br>서울가든호텔","COOP_NM":"","ADD_FACTY":"중식당<br>양식당","NOF_RM":"362","ADDR_URL":"마포구 도화동 169-1/<br>www.seoulgarden.co.kr/","REG_DATE":"1979-08-02"}
+,{"IDX":"13","CGG_NM":"중구","GRADE":"1급","HOTEL_NM":"라마다호텔동대문","COOP_NM":"(주)폴앤파트너스","ADD_FACTY":"","NOF_RM":"154","ADDR_URL":"서울시 중구 을지로5가 275-3외17<br>www.ramadadm.com","REG_DATE":"2012-01-19"}
+,{"IDX":"14","CGG_NM":"광진구","GRADE":"2급","HOTEL_NM":"호텔 컬리넌 건대","COOP_NM":"","ADD_FACTY":"","NOF_RM":"55","ADDR_URL":"광진구 군자동 350-6(동일로 212)","REG_DATE":"2014-01-08"}
+,{"IDX":"14","CGG_NM":"강남구","GRADE":"3급","HOTEL_NM":"티파니관광호텔","COOP_NM":"","ADD_FACTY":"Bar,식당","NOF_RM":"53","ADDR_URL":"서울 강남구 청담동 132-17<br>www.tiffanyhotel.com","REG_DATE":"1994-03-30"}
+,{"IDX":"14","CGG_NM":"종로구","GRADE":"호스텔","HOTEL_NM":"아름호스텔","COOP_NM":"고성철","ADD_FACTY":"","NOF_RM":"6","ADDR_URL":"종로구 율곡로 4길 11-3","REG_DATE":"2015-02-02"}
+,{"IDX":"14","CGG_NM":"마포구","GRADE":"-","HOTEL_NM":"HOTEL THE DESIGNERS","COOP_NM":"백승용 외 2인","ADD_FACTY":"","NOF_RM":"80","ADDR_URL":"마포구 양화로 86","REG_DATE":"2013-02-05"}
+,{"IDX":"14","CGG_NM":"서초구","GRADE":"특1급","HOTEL_NM":"JW메리어트호텔 <br>서울","COOP_NM":"센트럴관광개발㈜","ADD_FACTY":"음식점,피트니스센터,주점","NOF_RM":"497","ADDR_URL":"서울 서초구 반포동 19-3<br>jw-marriott.co.kr                                                           ","REG_DATE":"2000-07-01"}
+,{"IDX":"14","CGG_NM":"마포구","GRADE":"특2급","HOTEL_NM":"㈜아주호텔서교","COOP_NM":"㈜아주호텔서교","ADD_FACTY":"일반식당","NOF_RM":"135","ADDR_URL":"마포구 서교동 354-5/<br>www.hotelseokyo.co.kr/","REG_DATE":"1983-10-27"}
+,{"IDX":"14","CGG_NM":"중구","GRADE":"1급","HOTEL_NM":"나인트리 호텔 명동","COOP_NM":"파르나스호텔(주)","ADD_FACTY":"","NOF_RM":"144","ADDR_URL":"서울시 중구 충무로2가 63-2<br>www.ninetreehotel.com","REG_DATE":"2012-12-06"}
+,{"IDX":"15","CGG_NM":"서초구","GRADE":"2급","HOTEL_NM":"관광호텔 바빌론","COOP_NM":"㈜바빌론","ADD_FACTY":"커피숍, 주점","NOF_RM":"81","ADDR_URL":"서울 서초구 잠원동 18-5","REG_DATE":"2009-04-23"}
+,{"IDX":"15","CGG_NM":"강남구","GRADE":"3급","HOTEL_NM":"호텔자이언트","COOP_NM":"성제기업㈜","ADD_FACTY":"사우나,Bar","NOF_RM":"52","ADDR_URL":"서울 강남구 삼성동 45-10","REG_DATE":"1987-06-27"}
+,{"IDX":"15","CGG_NM":"중구","GRADE":"호스텔업","HOTEL_NM":"24게스트하우스 동대문","COOP_NM":"임병룡,민경천","ADD_FACTY":"문화정보교류실","NOF_RM":"26","ADDR_URL":"중구 을지로 280-2 (을지로7가)","REG_DATE":"2014-06-24"}
+,{"IDX":"15","CGG_NM":"강서구","GRADE":"-","HOTEL_NM":"칼튼 관광호텔","COOP_NM":"-","ADD_FACTY":"유흥주점, 일반음식점","NOF_RM":"64","ADDR_URL":"강서구 화곡동 1110-3","REG_DATE":"2003-02-27"}
+,{"IDX":"15","CGG_NM":"서초구","GRADE":"특1급","HOTEL_NM":"서울팔래스호텔㈜<br>더블유에스개발","COOP_NM":"웨스테이트디벨롭먼트㈜","ADD_FACTY":"음식점, 사우나, 비스니스센터","NOF_RM":"357","ADDR_URL":"서울 서초구 반포동 63-1<br>www.seoulpalace.co.kr(사평대로 160)","REG_DATE":"1982-06-01"}
+,{"IDX":"15","CGG_NM":"마포구","GRADE":"특2급","HOTEL_NM":"㈜롯데호텔<br>롯데시티호텔마포","COOP_NM":"㈜롯데호텔","ADD_FACTY":"부페","NOF_RM":"284","ADDR_URL":"마포구 공덕동 467/<br>www.lottecityhotel.co.kr/","REG_DATE":"2009-03-06"}
+,{"IDX":"15","CGG_NM":"중구","GRADE":"1급","HOTEL_NM":"더그래드 호텔 명동","COOP_NM":"엘케이관광㈜","ADD_FACTY":"","NOF_RM":"50","ADDR_URL":"서울시 중구 명동8가길 38<br>(충무로 2가)","REG_DATE":"2013-02-21"}
+,{"IDX":"16","CGG_NM":"서초구","GRADE":"2급","HOTEL_NM":"프렌드관광호텔","COOP_NM":"㈜프렌드호텔","ADD_FACTY":"음식점, 커피숍, 주점","NOF_RM":"59","ADDR_URL":"서울 서초구 서초동 1605-7<br>www.friendhotel.co.kr","REG_DATE":"1990-08-01"}
+,{"IDX":"16","CGG_NM":"강동구","GRADE":"3급","HOTEL_NM":"발리관광호텔","COOP_NM":"황재필, <br>채효순","ADD_FACTY":"일반음식점<br>2개소","NOF_RM":"50","ADDR_URL":"서울 강동구 성내동 417-5","REG_DATE":"1990-01-20"}
+,{"IDX":"16","CGG_NM":"동대문구","GRADE":"호스텔업","HOTEL_NM":"신설 레지던스 동대문","COOP_NM":"김미선","ADD_FACTY":"","NOF_RM":"","ADDR_URL":"동대문구 신설동 76-32","REG_DATE":"2015-03-18"}
+,{"IDX":"16","CGG_NM":"강서구","GRADE":"-","HOTEL_NM":"공원 관광호텔","COOP_NM":"-","ADD_FACTY":"단란주점, 휴게음식점","NOF_RM":"39","ADDR_URL":"강서구 화곡동 371-21외 1필지","REG_DATE":"2007-04-24"}
+,{"IDX":"16","CGG_NM":"서초구","GRADE":"특1급","HOTEL_NM":"The-K호텔","COOP_NM":"더케이호텔앤리조트<br>주식회사","ADD_FACTY":"음식점, 수영장, 공연장, 체력단련장, 골프연습장","NOF_RM":"252","ADDR_URL":"서울 서초구 양재동 202<br>www.temf.co.kr","REG_DATE":"1991-03-01"}
+,{"IDX":"16","CGG_NM":"마포구","GRADE":"특2급","HOTEL_NM":"스탠포드호텔코리아㈜<br>스탠포드호텔서울","COOP_NM":"스탠포드호텔코리아㈜","ADD_FACTY":"레스토랑,<br>수영장,사우나","NOF_RM":"239","ADDR_URL":"마포구 상암동 1587/<br>www.stanfordseoul.com/seoul","REG_DATE":"2011-10-10"}
+,{"IDX":"16","CGG_NM":"중구","GRADE":"1급","HOTEL_NM":"호텔아로파","COOP_NM":"호텔아로파㈜","ADD_FACTY":"","NOF_RM":"90","ADDR_URL":"서울시 중구 세종대로16길 22<br>(북창동)","REG_DATE":"2013-06-07"}
+,{"IDX":"17","CGG_NM":"강남구","GRADE":"2급","HOTEL_NM":"녹스관광호텔","COOP_NM":"","ADD_FACTY":"Bar,식당","NOF_RM":"41","ADDR_URL":"서울 강남구 역삼동 677-13<br>www.noxhotel.com/","REG_DATE":"2011-10-13"}
+,{"IDX":"17","CGG_NM":"강동구","GRADE":"3급","HOTEL_NM":"바고관광호텔","COOP_NM":"서봉석","ADD_FACTY":"일반음식점<br>1개소","NOF_RM":"42","ADDR_URL":"강동구 천호동 324-39","REG_DATE":"2012-09-07"}
+,{"IDX":"17","CGG_NM":"강서구","GRADE":"-","HOTEL_NM":"티제이 관광호텔","COOP_NM":"-","ADD_FACTY":"일반음식점","NOF_RM":"36","ADDR_URL":"강서구 외발산동 215","REG_DATE":"2003-09-03"}
+,{"IDX":"17","CGG_NM":"강남구","GRADE":"특1급","HOTEL_NM":"그랜드 인터컨티넨탈 서울파르나스","COOP_NM":"파르나스호텔㈜","ADD_FACTY":"피트니스,수영장,Bar,식당,연회장","NOF_RM":"519","ADDR_URL":"서울 강남구 삼성동 159-8<br>www.grandicparnas.com","REG_DATE":"1988-08-26(2014-11-20)"}
+,{"IDX":"17","CGG_NM":"강서구","GRADE":"특2급","HOTEL_NM":"베스트웨스턴<br>나이아가라호텔","COOP_NM":"㈜나이아가라관광","ADD_FACTY":"유흥주점, 커피숍, 연회장, 일반음식점","NOF_RM":"98","ADDR_URL":"강서구 염창동 259-2외 1필지<br>www.niagarahotel.co.kr","REG_DATE":"1987-02-06"}
+,{"IDX":"17","CGG_NM":"중구","GRADE":"1급","HOTEL_NM":"써미트호텔","COOP_NM":"봉우물산㈜","ADD_FACTY":"","NOF_RM":"190","ADDR_URL":"중구 장충단로 198<br>(장충동1가)","REG_DATE":"2013-10-08"}
+,{"IDX":"18","CGG_NM":"강남구","GRADE":"2급","HOTEL_NM":"뉴힐탑관광호텔","COOP_NM":"삼원관광개발㈜","ADD_FACTY":"Bar,연회장","NOF_RM":"82","ADDR_URL":"서울 강남구 논현동 152<br>www.newhilltophotel.com/","REG_DATE":"1993-02-05"}
+,{"IDX":"18","CGG_NM":"성북구","GRADE":"3급","HOTEL_NM":"리베라 호텔","COOP_NM":"남영진 외2","ADD_FACTY":"","NOF_RM":"69","ADDR_URL":"성북구 동선동1가91","REG_DATE":"2014-09-04"}
+,{"IDX":"18","CGG_NM":"강서구","GRADE":"-","HOTEL_NM":"붐 관광호텔","COOP_NM":"-","ADD_FACTY":"일반음식점","NOF_RM":"50","ADDR_URL":"강서구 외발산동 282-2","REG_DATE":"2003-03-25"}
+,{"IDX":"18","CGG_NM":"강남구","GRADE":"특1급","HOTEL_NM":"노보텔앰배서더강남 <br>서울","COOP_NM":"앰배서더즈㈜","ADD_FACTY":"피트니스,수영장,식당,연회장","NOF_RM":"332","ADDR_URL":"서울 강남구 역삼동 603<br>www.ambatel.com/gangnam/","REG_DATE":"1993-08-25"}
+,{"IDX":"18","CGG_NM":"강서구","GRADE":"특2급","HOTEL_NM":"㈜호텔롯데롯데시티호텔<br>김포공항","COOP_NM":"㈜롯데호텔","ADD_FACTY":"식당, 코인세탁실, 체련장, 비지니스센터","NOF_RM":"197","ADDR_URL":"강서구 방화동 886외6필지<br>www.lottecityhotelgimpoairport.com/main/main.asp","REG_DATE":"2011-12-05"}
+,{"IDX":"18","CGG_NM":"용산구","GRADE":"1급","HOTEL_NM":"(주)해밀톤호텔","COOP_NM":"해밀톤관광(주)","ADD_FACTY":"13","NOF_RM":"166","ADDR_URL":"용산구 이태원동 119-24,25외 <br>www.hamilton.co.kr/","REG_DATE":"1975-07-29"}
+,{"IDX":"19","CGG_NM":"강남구","GRADE":"2급","HOTEL_NM":"다이내스티관광호텔","COOP_NM":"","ADD_FACTY":"Bar","NOF_RM":"64","ADDR_URL":"서울 강남구 논현동 202-7<br>www.hoteldynasty.co.kr/","REG_DATE":"1989-12-20"}
+,{"IDX":"19","CGG_NM":"관악구","GRADE":"3급","HOTEL_NM":"K2 호텔","COOP_NM":"㈜관전베스트먼트<br>이길영","ADD_FACTY":"","NOF_RM":"43","ADDR_URL":"서울 관악구 신림로 64길 29<br>(신림동 1421-22)","REG_DATE":"2014-01-14"}
+,{"IDX":"19","CGG_NM":"강서구","GRADE":"-","HOTEL_NM":"이지겔러리 관광호텔","COOP_NM":"-","ADD_FACTY":"일반음식점, 유흥주점, 체력단련장","NOF_RM":"56","ADDR_URL":"강서구 화곡동 1097-4<br>www.eghotel.co.kr","REG_DATE":"2007-10-01(2014-11-21)"}
+,{"IDX":"19","CGG_NM":"강남구","GRADE":"특1급","HOTEL_NM":"르네상스서울 호텔","COOP_NM":"남우관광㈜","ADD_FACTY":"피트니스,사우나,수영장,Bar,식당,연회장","NOF_RM":"497","ADDR_URL":"서울 강남구 역삼동 676<br>www.renaissance-seoul.com/","REG_DATE":"1988-06-03"}
+,{"IDX":"19","CGG_NM":"구로구","GRADE":"특2급","HOTEL_NM":"베스트웨스턴프리미어<br>구로호텔","COOP_NM":"와이씨앤티㈜","ADD_FACTY":"회의실, 식당, 연회장","NOF_RM":"201","ADDR_URL":"서울 구로구 구로동 1128-1","REG_DATE":"2010-12-01(2014-10-23)"}
+,{"IDX":"19","CGG_NM":"용산구","GRADE":"1급","HOTEL_NM":"(주)크라운호텔","COOP_NM":"주)크라운호텔","ADD_FACTY":"0","NOF_RM":"191","ADDR_URL":"용산구 이태원동 36-69, 34-159외 <br>www.hotelcrown.com/","REG_DATE":"1980-05-20"}
+,{"IDX":"20","CGG_NM":"강남구","GRADE":"2급","HOTEL_NM":"제이비스 호텔","COOP_NM":"","ADD_FACTY":"Bar,식당","NOF_RM":"53","ADDR_URL":"서울 강남구 대치동 890-28<br>www.jbis.kr/","REG_DATE":"2012-01-17"}
+,{"IDX":"20","CGG_NM":"강동구","GRADE":"3급","HOTEL_NM":"코리아관광호텔<br>('15.4.13 일반숙박업전환)","COOP_NM":"하갑현,<br>박영애","ADD_FACTY":"","NOF_RM":"0","ADDR_URL":"강동구 성내동 199-7","REG_DATE":"2008-12-26"}
+,{"IDX":"20","CGG_NM":"강서구","GRADE":"-","HOTEL_NM":"메이트 관광호텔","COOP_NM":"-","ADD_FACTY":"레스토랑","NOF_RM":"57","ADDR_URL":"강서구 화곡동 921-6외 5필지<br>www.matehotel.net","REG_DATE":"2008-10-29"}
+,{"IDX":"20","CGG_NM":"강남구","GRADE":"특1급","HOTEL_NM":"인터컨티넨탈 서울 코엑스","COOP_NM":"파르나스호텔㈜","ADD_FACTY":"피트니스,수영장,식당,연회장","NOF_RM":"654","ADDR_URL":"서울 강남구 삼성동 159-8<br>www.iccoex.com/","REG_DATE":"1999-09-21"}
+,{"IDX":"20","CGG_NM":"금천구","GRADE":"특2급","HOTEL_NM":"노보텔앰배서더독산 <br>서울","COOP_NM":"㈜앰배텔","ADD_FACTY":"","NOF_RM":"219","ADDR_URL":"서울 금천구 독산4동 1030-1<br>www.ambatel.com","REG_DATE":"1997-09-01"}
+,{"IDX":"20","CGG_NM":"용산구","GRADE":"1급","HOTEL_NM":"아이피부티크호텔<br>(IP Boutique hotel)","COOP_NM":"아이피부티크호텔","ADD_FACTY":"6","NOF_RM":"132","ADDR_URL":"용산구 한남동 737-32번지 <br>www.ipboutiquehotel.com/","REG_DATE":"1988-09-28"}
+,{"IDX":"21","CGG_NM":"강남구","GRADE":"2급","HOTEL_NM":"힐탑관광호텔","COOP_NM":"우창홀딩스㈜","ADD_FACTY":"Bar,식당","NOF_RM":"57","ADDR_URL":"서울 강남구 논현동 151-30<br>www.hotelhilltop.co.kr","REG_DATE":"1987-05-01"}
+,{"IDX":"21","CGG_NM":"강서구","GRADE":"-","HOTEL_NM":"호텔 디아망","COOP_NM":"-","ADD_FACTY":"휴게음식점, 연회장","NOF_RM":"48","ADDR_URL":"강서구 외발산동 280-1외 2필지<br>www.hoteldiamant.co.kr","REG_DATE":"2009-12-30"}
+,{"IDX":"21","CGG_NM":"강남구","GRADE":"특1급","HOTEL_NM":"임피리얼 팰리스 <br>호텔","COOP_NM":"태승21㈜","ADD_FACTY":"피트니스,사우나,수영장,Bar,식당,연회장","NOF_RM":"404","ADDR_URL":"서울 강남구 논현동 248-7<br>www.imperialpalace.co.kr/","REG_DATE":"1987-02-06"}
+,{"IDX":"21","CGG_NM":"영등포구","GRADE":"특2급","HOTEL_NM":"렉싱턴호텔","COOP_NM":"","ADD_FACTY":"","NOF_RM":"235","ADDR_URL":"서울 영등포구 여의도동 13-3","REG_DATE":"2001-03-01"}
+,{"IDX":"21","CGG_NM":"광진구","GRADE":"1급","HOTEL_NM":"동서울관광호텔","COOP_NM":"㈜동서울관광호텔","ADD_FACTY":"의료시설(1), 면세점(1)","NOF_RM":"115","ADDR_URL":"광진구 구의강변로 38","REG_DATE":"1991-04-13"}
+,{"IDX":"22","CGG_NM":"송파구","GRADE":"2급","HOTEL_NM":"가락관광호텔","COOP_NM":"","ADD_FACTY":"연회장, 커피숍&레스토랑","NOF_RM":"62","ADDR_URL":"서울 송파구 가락동 98-5<br>www.hotelkarak.com","REG_DATE":"1990-03-01"}
+,{"IDX":"22","CGG_NM":"강서구","GRADE":"-","HOTEL_NM":"호텔에스","COOP_NM":"-","ADD_FACTY":"일반음식점","NOF_RM":"88","ADDR_URL":"강서구 화곡동 918-23외 2필지<br>www.s-hotel.co.kr","REG_DATE":"2011-07-20"}
+,{"IDX":"22","CGG_NM":"강남구","GRADE":"특1급","HOTEL_NM":"파크하얏트서울","COOP_NM":"현대산업개발㈜","ADD_FACTY":"피트니스,식당","NOF_RM":"185","ADDR_URL":"서울 강남구 대치동 995-14<br>www.parkhyattseoul.co.kr/","REG_DATE":"2005-03-29(2015-01-29)"}
+,{"IDX":"22","CGG_NM":"영등포구","GRADE":"특2급","HOTEL_NM":"코트야드바이<br>메리어트","COOP_NM":"","ADD_FACTY":"","NOF_RM":"283","ADDR_URL":"서울 영등포구 영등포동4가 442,442-1","REG_DATE":"2009-09-01"}
+,{"IDX":"22","CGG_NM":"광진구","GRADE":"1급","HOTEL_NM":"한강관광호텔","COOP_NM":"㈜한강관광호텔","ADD_FACTY":"사우나(1), 단란주점(2), 웨딩홀(1), 나이트클럽(1),","NOF_RM":"116","ADDR_URL":"광진구 아차산로78길 147 www.hankanghotel.co.kr","REG_DATE":"1979-10-23"}
+,{"IDX":"23","CGG_NM":"송파구","GRADE":"2급","HOTEL_NM":"잠실관광호텔","COOP_NM":"","ADD_FACTY":"비즈니스센터, 연회장, 레스토랑","NOF_RM":"53","ADDR_URL":"서울 송파구 잠실동 250-9<br>www.js hotel.co.kr","REG_DATE":"1991-05-01"}
+,{"IDX":"23","CGG_NM":"강서구","GRADE":"-","HOTEL_NM":"드어반 광광호텔","COOP_NM":"강인월","ADD_FACTY":"휴게음식점 ","NOF_RM":"46","ADDR_URL":"강서구 곰달래로 24길 35","REG_DATE":"2013-01-14"}
+,{"IDX":"23","CGG_NM":"강남구","GRADE":"특1급","HOTEL_NM":"<br>호텔리츠칼튼서울","COOP_NM":"전원산업㈜","ADD_FACTY":"피트니스,수영장,Bar,식당,연회장","NOF_RM":"374","ADDR_URL":"서울강남구 역삼동 602<br>www.ritzcarltonseoul.com/","REG_DATE":"1995-04-21"}
+,{"IDX":"23","CGG_NM":"서초구","GRADE":"특2급","HOTEL_NM":"더리버사이드호텔","COOP_NM":"㈜가우플랜","ADD_FACTY":"음식점, 운동시설, 주점","NOF_RM":"109","ADDR_URL":"서울 서초구 잠원동 6-1","REG_DATE":"1994-09-16(2014-10-01)"}
+,{"IDX":"23","CGG_NM":"동대문구","GRADE":"1급","HOTEL_NM":"(주)경남관광호텔","COOP_NM":"㈜경남관광호텔","ADD_FACTY":"레스토랑,연회장","NOF_RM":"108","ADDR_URL":" 동대문구 장안동 366-7번지 ","REG_DATE":"1982-11-10"}
+,{"IDX":"24","CGG_NM":"영등포구","GRADE":"2급","HOTEL_NM":"노바루스 관광호텔","COOP_NM":"이태근","ADD_FACTY":"","NOF_RM":"32","ADDR_URL":"영등포구 양평동1가 9-28","REG_DATE":"2014-11-03(2015-01-19)"}
+,{"IDX":"24","CGG_NM":"강서구","GRADE":"-","HOTEL_NM":"볼(VOLL) 관광호텔","COOP_NM":"최우영","ADD_FACTY":"","NOF_RM":"54","ADDR_URL":"강서구 강서로5나길 30(화곡동905-8)","REG_DATE":"2013-02-25"}
+,{"IDX":"24","CGG_NM":"송파구","GRADE":"특1급","HOTEL_NM":"롯데호텔월드","COOP_NM":"㈜호텔롯데","ADD_FACTY":"휘트니스센터, 골프연습장, 수영장, 사우나, 연회장, 비즈니스센터, 음식점","NOF_RM":"482","ADDR_URL":"서울 송파구 잠실동 40-1/<br>www.lottehotelworld.com","REG_DATE":"1988-09-01"}
+,{"IDX":"24","CGG_NM":"강남구","GRADE":"특2급","HOTEL_NM":"라마다서울호텔","COOP_NM":"라마다관광㈜","ADD_FACTY":"피트니스,사우나,Bar,식당,연회장","NOF_RM":"246","ADDR_URL":"서울 강남구 삼성동 112-5(봉은사로 410)<br>www.ramadaseoul.co.kr/","REG_DATE":"1986-12-20"}
+,{"IDX":"24","CGG_NM":"강북구","GRADE":"1급","HOTEL_NM":"호텔 <br>빅토리아","COOP_NM":"㈜빅토리아<br>산업개발","ADD_FACTY":"커피숍,<br>웨딩홀","NOF_RM":"110","ADDR_URL":"강북구 미아4동 42-8<br>www.hotelvictoria.co.kr","REG_DATE":"1991-04-26"}
+,{"IDX":"25","CGG_NM":"중구","GRADE":"2급","HOTEL_NM":"호텔 스카이파크Ⅲ","COOP_NM":"(주)아이큐웰","ADD_FACTY":"","NOF_RM":"136","ADDR_URL":"서울 중구 충무로2가 62-9외1<br>www.skyparkhotel.com","REG_DATE":"2011-09-28"}
+,{"IDX":"25","CGG_NM":"강서구","GRADE":"-","HOTEL_NM":"골든서울호텔","COOP_NM":"㈜코콤텍<br>고성춘","ADD_FACTY":"","NOF_RM":"260","ADDR_URL":"강서구 공항대로 663<br>(염창동260-7)","REG_DATE":"2013-09-25"}
+,{"IDX":"25","CGG_NM":"강남구","GRADE":"특2급","HOTEL_NM":"머큐어 엠버서더 <br>쏘도배 호텔","COOP_NM":"㈜희앤썬","ADD_FACTY":"피트니스,사우나,식당","NOF_RM":"288","ADDR_URL":"서울 강남구 역삼동 642<br>mercureseoul.com","REG_DATE":"2012-03-22"}
+,{"IDX":"25","CGG_NM":"강북구","GRADE":"1급","HOTEL_NM":"호텔<br>아카데미하우스","COOP_NM":"(재)기장 <br>아카데미하우스","ADD_FACTY":"커피숍,<br>한식당,<br>양식당","NOF_RM":"52","ADDR_URL":"서울 강북구 수유동 산76<br>www.academyhouse.co.kr","REG_DATE":"1994-09-27"}
+,{"IDX":"26","CGG_NM":"관악구","GRADE":"2급","HOTEL_NM":"나이스타임 관광호텔","COOP_NM":"이정옥","ADD_FACTY":"","NOF_RM":"60","ADDR_URL":"서울특별시 관악구 신림로64길 28(신림동)","REG_DATE":"2014-06-18"}
+,{"IDX":"26","CGG_NM":"노원구","GRADE":"1급","HOTEL_NM":"노블레스관광호텔","COOP_NM":"(주)노블레스<br>관광호텔","ADD_FACTY":"일반음식점, 나이트클럽. 예식장, 세미나실, 홀","NOF_RM":"85","ADDR_URL":"서울 노원구 상계동 711-9<br>www.hotelnoblesse.co.kr","REG_DATE":"2001-02-04"}
+,{"IDX":"26","CGG_NM":"금천구","GRADE":"-","HOTEL_NM":"이사벨관광호텔","COOP_NM":"장기석","ADD_FACTY":"","NOF_RM":"57","ADDR_URL":"서울 금천구 독산동 150-10,11","REG_DATE":"2004-11-01"}
+,{"IDX":"26","CGG_NM":"강남구","GRADE":"특2급","HOTEL_NM":"베스트웨스턴<br>프리미어 강남","COOP_NM":"신세계개발㈜","ADD_FACTY":"피트니스,식당","NOF_RM":"128","ADDR_URL":"서울 강남구 논현동 205-9<br>www.bestwesterngangnam.com/","REG_DATE":"2005-03-09"}
+,{"IDX":"27","CGG_NM":"송파구","GRADE":"2급","HOTEL_NM":"파로스 관광호텔","COOP_NM":"㈜파로스 관광호텔","ADD_FACTY":"연회장, 레스토랑","NOF_RM":"52","ADDR_URL":"서울시 송파구 잠실동 180","REG_DATE":"2012-12-11"}
+,{"IDX":"27","CGG_NM":"강서구","GRADE":"1급","HOTEL_NM":"호텔 노스탈자","COOP_NM":"㈜쎄븐정보기술","ADD_FACTY":"일반음식점, 무도유흥음식점, 유흥주점","NOF_RM":"61","ADDR_URL":"강서구 화곡동 1110외 1필지<br>www.hotelnostalgia.co.kr","REG_DATE":"1987-03-23"}
+,{"IDX":"27","CGG_NM":"금천구","GRADE":"-","HOTEL_NM":"호텔마인드","COOP_NM":"정성우 외 1인","ADD_FACTY":"","NOF_RM":"66","ADDR_URL":"서울 금천구 가산동 141-1","REG_DATE":"2006-12-01"}
+,{"IDX":"27","CGG_NM":"강남구","GRADE":"특2급","HOTEL_NM":"삼정관광호텔","COOP_NM":"삼정관광호텔㈜","ADD_FACTY":"사우나,Bar,식당,연회장","NOF_RM":"163","ADDR_URL":"서울 강남구 역삼동 604-11<br>www.samjunghotel.co.kr/","REG_DATE":"1982-02-09"}
+,{"IDX":"28","CGG_NM":"강서구","GRADE":"1급","HOTEL_NM":"리버파크 관광호텔","COOP_NM":"㈜삼원종합주택","ADD_FACTY":"일반음식점, 목욕장, 유흥주점","NOF_RM":"81","ADDR_URL":"강서구 염창동 260외 1필지<br>www.riverpark.co.kr","REG_DATE":"1989-12-07"}
+,{"IDX":"28","CGG_NM":"강남구","GRADE":"-","HOTEL_NM":"베네치아","COOP_NM":"","ADD_FACTY":"Bar,식당","NOF_RM":"62","ADDR_URL":"서울 강남구 역삼동 606-28","REG_DATE":"2003-01-10"}
+,{"IDX":"28","CGG_NM":"강남구","GRADE":"특2급","HOTEL_NM":"호텔리베라 서울","COOP_NM":"신안관광㈜","ADD_FACTY":"피트니스,사우나,수영장,Bar,식당,연회장","NOF_RM":"319","ADDR_URL":"서울 강남구 청담동 53-7<br>www.hotelriviera.co.kr/index.asp","REG_DATE":"1987-12-10"}
+,{"IDX":"29","CGG_NM":"강서구","GRADE":"1급","HOTEL_NM":"그린월드 관광호텔","COOP_NM":"-","ADD_FACTY":"제과점, 휴게음식점, 연회장, 유흥주점,<br>관광기념품점","NOF_RM":"52","ADDR_URL":"강서구 등촌동 505-2외 5필지","REG_DATE":"1994-11-01"}
+,{"IDX":"29","CGG_NM":"강남구","GRADE":"-","HOTEL_NM":"호텔 더 디자이너스","COOP_NM":"","ADD_FACTY":"식당","NOF_RM":"90","ADDR_URL":"서울 강남구 삼성동 144-7,8<br>www.hotelthedesigners.com","REG_DATE":"2012-07-04"}
+,{"IDX":"29","CGG_NM":"강남구","GRADE":"특2급","HOTEL_NM":"호텔엘루이","COOP_NM":"","ADD_FACTY":"Bar,식당,연회장","NOF_RM":"139","ADDR_URL":"서울 강남구 청담동 129<br>www.ellui.com/","REG_DATE":"1992-04-10(2014-12-30)"}
+,{"IDX":"30","CGG_NM":"영등포구","GRADE":"1급","HOTEL_NM":"여의도관광호텔","COOP_NM":"","ADD_FACTY":"","NOF_RM":"107","ADDR_URL":"서울 영등포구 여의도동 10-3","REG_DATE":"1975-03-01"}
+,{"IDX":"30","CGG_NM":"강남구","GRADE":"-","HOTEL_NM":"호텔라미르<br>(파고다 호텔)","COOP_NM":"㈜파고다","ADD_FACTY":"사우나,Bar,식당,연회장","NOF_RM":"150","ADDR_URL":"서울 강남구 역삼동 662-7<br>www.hotellamir.co.kr/","REG_DATE":"2012-11-03"}
+,{"IDX":"30","CGG_NM":"강남구","GRADE":"특2급","HOTEL_NM":"호텔프리마","COOP_NM":"호텔프리마㈜","ADD_FACTY":"사우나,Bar,식당,연회장","NOF_RM":"120","ADDR_URL":"서울 강남구 청담동 52-3<br>www.prima.co.kr/","REG_DATE":"1988-09-07"}
+,{"IDX":"31","CGG_NM":"서초구","GRADE":"1급","HOTEL_NM":"호텔센트로","COOP_NM":"㈜센트로","ADD_FACTY":"음식점, 사우나, 비스니스센터, 커피숍","NOF_RM":"94","ADDR_URL":"서울 서초구 서초동 1594-3<br>www.centrohotel.co.kr","REG_DATE":"1999-03-01"}
+,{"IDX":"31","CGG_NM":"강남구","GRADE":"-","HOTEL_NM":"호텔G","COOP_NM":"","ADD_FACTY":"Bar","NOF_RM":"53","ADDR_URL":"서울 강남구 논현동 56-21","REG_DATE":"2013-01-27"}
+,{"IDX":"32","CGG_NM":"강남구","GRADE":"1급","HOTEL_NM":"호텔 그라모스","COOP_NM":"","ADD_FACTY":"","NOF_RM":"42","ADDR_URL":"강남구 테헤란로33길 6-5<br>(강남구 역삼동 677-21)","REG_DATE":"2013-07-09"}
+,{"IDX":"32","CGG_NM":"강남구","GRADE":"-","HOTEL_NM":"호텔 컬리넌 역삼","COOP_NM":"조행자, 김경미<br>이동직, 한수민","ADD_FACTY":"Bar","NOF_RM":"54","ADDR_URL":"서울 강남구 언주로87길 11<br>(역삼동 720-23)","REG_DATE":"2013-07-25"}
+,{"IDX":"33","CGG_NM":"강남구","GRADE":"1급","HOTEL_NM":"그린그래스관광호텔","COOP_NM":"오석구","ADD_FACTY":"사우나,Bar,식당","NOF_RM":"77","ADDR_URL":"서울 강남구 삼성동 141-10<br>www.greengrasshotel.com/","REG_DATE":"1988-12-08"}
+,{"IDX":"33","CGG_NM":"송파구","GRADE":"-","HOTEL_NM":"필름 37.2","COOP_NM":"문귀선외 1","ADD_FACTY":"","NOF_RM":"83","ADDR_URL":"송파구 방이동 46-6번지","REG_DATE":"2013-04-22"}
+,{"IDX":"34","CGG_NM":"강남구","GRADE":"1급","HOTEL_NM":"선샤인 관광호텔","COOP_NM":"㈜선샤인","ADD_FACTY":"사우나,Bar,식당","NOF_RM":"111","ADDR_URL":"서울 강남구 신사동 587-1<br>www.hotelsunshine.co.kr/","REG_DATE":"1988-07-30(2014-09-03)"}
+,{"IDX":"34","CGG_NM":"강동구","GRADE":"-","HOTEL_NM":"투비인관광호텔","COOP_NM":"정해연","ADD_FACTY":"","NOF_RM":"92","ADDR_URL":"강동구 길동 388-2(천중로42길 75)","REG_DATE":"2010-11-18"}
+,{"IDX":"35","CGG_NM":"강남구","GRADE":"1급","HOTEL_NM":"슈메르<br>(SUMER)","COOP_NM":"","ADD_FACTY":"피트니스,사우나,Bar,식당","NOF_RM":"169","ADDR_URL":"서울 강남구 논현동 236-8(봉은사로 223)<br>www.seoulstarshotel.com/","REG_DATE":"2010-07-22"}
+,{"IDX":"35","CGG_NM":"용산구","GRADE":"-","HOTEL_NM":"I.T.W호텔","COOP_NM":"이윤석","ADD_FACTY":"","NOF_RM":"71","ADDR_URL":"용산구 우사단로14길 11<br>(이태원동 126-7외 3)","REG_DATE":"2013-10-01"}
+,{"IDX":"36","CGG_NM":"강남구","GRADE":"1급","HOTEL_NM":"영동관광호텔","COOP_NM":"용창산업㈜","ADD_FACTY":"Bar,식당,연회장","NOF_RM":"131","ADDR_URL":"서울 강남구 논현동 6<br>www.youngdonghotel.co.kr/","REG_DATE":"1997-12-30"}
+,{"IDX":"36","CGG_NM":"영등포구","GRADE":"-","HOTEL_NM":"로프트관광호텔","COOP_NM":"김창호","ADD_FACTY":"","NOF_RM":"58","ADDR_URL":"영등포구선유동2로72(당산동5가)","REG_DATE":"2013-11-21"}
+,{"IDX":"37","CGG_NM":"강남구","GRADE":"1급","HOTEL_NM":"이비스앰배서더 서울","COOP_NM":"앰배스텔㈜","ADD_FACTY":"식당","NOF_RM":"317","ADDR_URL":"서울 강남구 대치동 893-1<br>www.ambatel.com","REG_DATE":"2003-10-13"}
+,{"IDX":"37","CGG_NM":"은평구","GRADE":"-","HOTEL_NM":"SOHO BOUTIQUE HOTEL(소호부띠크) 호텔<br>(이전 : 라비야호텔)","COOP_NM":"김정희","ADD_FACTY":"","NOF_RM":"30","ADDR_URL":"은평구 진흥로138(녹번동)","REG_DATE":"2013-11-21"}
+,{"IDX":"38","CGG_NM":"강남구","GRADE":"1급","HOTEL_NM":"트리아관광호텔","COOP_NM":"","ADD_FACTY":"Bar,식당","NOF_RM":"50","ADDR_URL":"서울 강남구 역삼동 677-11<br>www.triahotel.co.kr/","REG_DATE":"2007-03-26"}
+,{"IDX":"38","CGG_NM":"서초구","GRADE":"-","HOTEL_NM":"호텔 소설(小雪)","COOP_NM":"서영우","ADD_FACTY":"","NOF_RM":"52","ADDR_URL":"서초구 반포대로 14길 53","REG_DATE":"2014-04-11"}
+,{"IDX":"39","CGG_NM":"강남구","GRADE":"1급","HOTEL_NM":"팝그린관광호텔","COOP_NM":"","ADD_FACTY":"사우나,Bar,식당,연회장","NOF_RM":"","ADDR_URL":"서울 강남구 신사동 614-1<br>www.popgreenhotel.com/","REG_DATE":"2001-12-26"}
+,{"IDX":"39","CGG_NM":"구로구","GRADE":"-","HOTEL_NM":"(주)호텔롯데롯데시티호텔 구로","COOP_NM":"(주)롯데호텔","ADD_FACTY":"","NOF_RM":"287","ADDR_URL":"서울특별시 구로구 디지털로 300","REG_DATE":"2014-07-21"}
+,{"IDX":"40","CGG_NM":"강남구","GRADE":"1급","HOTEL_NM":"라까사관광호텔","COOP_NM":"㈜라까사호텔","ADD_FACTY":"식당","NOF_RM":"61","ADDR_URL":"서울 강남구 신사동 527-2,3<br>www.hotellacasa.kr/","REG_DATE":"1990-02-27"}
+,{"IDX":"40","CGG_NM":"종로구","GRADE":"-","HOTEL_NM":"메이플레이스 호텔<br>서울 동대문","COOP_NM":"(주)메이플레이스","ADD_FACTY":"","NOF_RM":"107","ADDR_URL":"종로구 율곡로 179","REG_DATE":"2014-07-21"}
+,{"IDX":"41","CGG_NM":"송파구","GRADE":"1급","HOTEL_NM":"레이크관광호텔","COOP_NM":"","ADD_FACTY":"나이트클럽, 사우나, 게임룸, 레스토랑","NOF_RM":"94","ADDR_URL":"서울 송파구 석촌동 158<br>www.hotellake.co.kr","REG_DATE":"2002-12-01"}
+,{"IDX":"41","CGG_NM":"중구","GRADE":"-","HOTEL_NM":"데이즈 호텔 명동","COOP_NM":"한시천","ADD_FACTY":"","NOF_RM":"64","ADDR_URL":"중구 퇴계로 107","REG_DATE":"2014-07-22"}
+,{"IDX":"42","CGG_NM":"송파구","GRADE":"1급","HOTEL_NM":"캘리포니아관광호텔","COOP_NM":"","ADD_FACTY":"커피숍, 비즈니스클럽, 레스토랑","NOF_RM":"130","ADDR_URL":"서울 송파구 가락동 98-6<br>www. californiahotel.co.kr","REG_DATE":"2003-10-01"}
+,{"IDX":"42","CGG_NM":"강동구","GRADE":"-","HOTEL_NM":"하모니 관광호텔","COOP_NM":"박상일 외 2명","ADD_FACTY":"","NOF_RM":"81","ADDR_URL":"천중로 40길 63(길동 387-1)","REG_DATE":"2014-07-24"}
+,{"IDX":"43","CGG_NM":"동대문구","GRADE":"1급","HOTEL_NM":"BENIKEA HOTEL KP","COOP_NM":"김병시","ADD_FACTY":"","NOF_RM":"112","ADDR_URL":"동대문구 휘경동 319-12","REG_DATE":"2013-04-22"}
+,{"IDX":"43","CGG_NM":"강서구","GRADE":"-","HOTEL_NM":"지엠빌 관광호텔","COOP_NM":"김미숙","ADD_FACTY":"","NOF_RM":"51","ADDR_URL":"강서구 곰달래로 70-1<br>(화곡동 921-19)","REG_DATE":"2014-07-25"}
+,{"IDX":"44","CGG_NM":"동작구","GRADE":"1급","HOTEL_NM":"카라쉬","COOP_NM":"박호준외1인","ADD_FACTY":"","NOF_RM":"64","ADDR_URL":"동작구 동작대로1길 15<br>(사당동 1043-6)","REG_DATE":"2013-10-08"}
+,{"IDX":"44","CGG_NM":"동대문구","GRADE":"-","HOTEL_NM":"호텔 부티크나인","COOP_NM":"오용석","ADD_FACTY":"","NOF_RM":"91","ADDR_URL":"동대문구 왕산로 28(신설동)","REG_DATE":"2014-06-26"}
+,{"IDX":"45","CGG_NM":"중구","GRADE":"1급","HOTEL_NM":"스카이호텔 동대문 1호","COOP_NM":"(주)아이큐웰","ADD_FACTY":"","NOF_RM":"254","ADDR_URL":"서울시 중구 오장동 206-1 외2필지","REG_DATE":"2014-07-08"}
+,{"IDX":"45","CGG_NM":"동대문구","GRADE":"-","HOTEL_NM":"라마다앙코르 동대문지점","COOP_NM":"신상범","ADD_FACTY":"","NOF_RM":"332","ADDR_URL":"동대문구 왕산로 22(신설동)","REG_DATE":"2014-07-11"}
+,{"IDX":"46","CGG_NM":"송파구","GRADE":"1급","HOTEL_NM":"로사나부띠끄호텔","COOP_NM":"","ADD_FACTY":"","NOF_RM":"81","ADDR_URL":"송파구, 삼학사로 98","REG_DATE":"2013-08-27"}
+,{"IDX":"46","CGG_NM":"강서구","GRADE":"-","HOTEL_NM":"레인보우 관광호텔","COOP_NM":"신동진, 이명화","ADD_FACTY":"","NOF_RM":"76","ADDR_URL":"강서구 화곡동 924-10,11,20,1,24","REG_DATE":"2014-09-01"}
+,{"IDX":"47","CGG_NM":"용산구","GRADE":"-","HOTEL_NM":"호텔 엘르인","COOP_NM":"㈜엘르인","ADD_FACTY":"","NOF_RM":"54","ADDR_URL":"용산구 한강대로71길 24<br>(갈월동)","REG_DATE":"2014-09-22"}
+,{"IDX":"48","CGG_NM":"강남구","GRADE":"-","HOTEL_NM":"호텔 신라스테이 역삼","COOP_NM":"신라스테이 주식회사","ADD_FACTY":"","NOF_RM":"306","ADDR_URL":"강남구 언주로 517","REG_DATE":"2014-10-01"}
+,{"IDX":"49","CGG_NM":"강남구","GRADE":"-","HOTEL_NM":"알로프트 서울 강남 호텔","COOP_NM":"신진우","ADD_FACTY":"","NOF_RM":"188","ADDR_URL":"강남구 영동대로 736<br>(청담동 131번지)","REG_DATE":"2014-10-01"}
+,{"IDX":"50","CGG_NM":"성동구","GRADE":"-","HOTEL_NM":"호텔 아띠 ATTI","COOP_NM":"주식회사 전앤코","ADD_FACTY":"","NOF_RM":"80","ADDR_URL":"성동구 성수동2가 317-5","REG_DATE":"2014-09-22"}
+,{"IDX":"51","CGG_NM":"강남구","GRADE":"-","HOTEL_NM":"에이치 에비뉴 호텔 역삼<br>(H Avenue Hotel Yeoksam)","COOP_NM":"박길영,박미영,박인숙,<br>박지숙,박미숙","ADD_FACTY":"","NOF_RM":"49","ADDR_URL":"강남구 테헤란로29길 12(역삼동 678-14)","REG_DATE":"2014-10-10"}
+,{"IDX":"52","CGG_NM":"중구","GRADE":"-","HOTEL_NM":"베이튼호텔","COOP_NM":"㈜메타월드","ADD_FACTY":"","NOF_RM":"166","ADDR_URL":"중구 오장동 181-4 외 3","REG_DATE":"2014-10-10"}
+,{"IDX":"53","CGG_NM":"은평구","GRADE":"-","HOTEL_NM":"CS Seoul Hotel","COOP_NM":"김석우, 박종천","ADD_FACTY":"","NOF_RM":"70","ADDR_URL":"은평구 통일로 585-2(응암동)","REG_DATE":"2014-10-31"}
+,{"IDX":"54","CGG_NM":"종로구","GRADE":"-","HOTEL_NM":"고궁호텔","COOP_NM":"권혁범, 신화자","ADD_FACTY":"","NOF_RM":"58","ADDR_URL":"종로구 율곡로 164","REG_DATE":"2014-09-11"}
+,{"IDX":"55","CGG_NM":"영등포구","GRADE":"-","HOTEL_NM":"마루 관광호텔<br>(NOVALUZ HOTEL)","COOP_NM":"김원희외 5명","ADD_FACTY":"","NOF_RM":"83","ADDR_URL":"영등포구 영등포로 9","REG_DATE":"2014-11-27"}
+,{"IDX":"56","CGG_NM":"영등포구","GRADE":"-","HOTEL_NM":"글래드호텔 여의도","COOP_NM":"오라관광㈜","ADD_FACTY":"","NOF_RM":"261","ADDR_URL":"영등포구 의사당대로 16(여의도동)","REG_DATE":"2014-12-30"}
+,{"IDX":"57","CGG_NM":"구로구","GRADE":"-","HOTEL_NM":"호텔 베르누이","COOP_NM":"김정의","ADD_FACTY":"","NOF_RM":"397","ADDR_URL":"구로구 경인로 229(오류동)","REG_DATE":"2014-12-18"}
+,{"IDX":"58","CGG_NM":"중구","GRADE":"-","HOTEL_NM":"제이비즈호텔(진지앙 인)","COOP_NM":"정봉원","ADD_FACTY":"","NOF_RM":"181","ADDR_URL":"중구 창경궁로 20<br>(예관동 70-2 외 2)","REG_DATE":"2014-07-11"}
+,{"IDX":"59","CGG_NM":"영등포구","GRADE":"-","HOTEL_NM":"스카리리버(SKY RIVER)","COOP_NM":"김광수 외 7","ADD_FACTY":"","NOF_RM":"146","ADDR_URL":"영등포구 버드나무로 90","REG_DATE":"2015-01-23"}
+,{"IDX":"60","CGG_NM":"강서구","GRADE":"-","HOTEL_NM":"베니키아서울호텔","COOP_NM":"오성영","ADD_FACTY":"","NOF_RM":"87","ADDR_URL":"강서구 화곡로 68길 116","REG_DATE":"2015-01-26"}
+,{"IDX":"61","CGG_NM":"강남구","GRADE":"-","HOTEL_NM":"호텔데님(Hotel Denim)","COOP_NM":"마광영, 박성희, 마재억","ADD_FACTY":"","NOF_RM":"88","ADDR_URL":"강남구 논현로 66(개포동)","REG_DATE":"2015-02-03"}
+,{"IDX":"62","CGG_NM":"마포구","GRADE":"-","HOTEL_NM":"호텔디오레","COOP_NM":"황은영","ADD_FACTY":"","NOF_RM":"39","ADDR_URL":"마포구 서교동 351-29","REG_DATE":"2014-12-10"}
+,{"IDX":"63","CGG_NM":"강서구","GRADE":"-","HOTEL_NM":"에스알 관광호텔","COOP_NM":"㈜청동주택","ADD_FACTY":"","NOF_RM":"80","ADDR_URL":"강서구 등촌동 678-11","REG_DATE":"2014-11-25"}
+,{"IDX":"64","CGG_NM":"중구","GRADE":"-","HOTEL_NM":"이비스버짓동대문","COOP_NM":"㈜링크케이","ADD_FACTY":"","NOF_RM":"195","ADDR_URL":"중구 광희동2가 238-1","REG_DATE":"2014-10-29"}
+,{"IDX":"65","CGG_NM":"중구","GRADE":"-","HOTEL_NM":"스타즈호텔 명동1호점","COOP_NM":"(주)모두스테이 <br>맹찬호, 양병선","ADD_FACTY":"","NOF_RM":"150","ADDR_URL":" 중구 을지로3가 95-7","REG_DATE":"2015-01-12"}
+,{"IDX":"66","CGG_NM":"중구","GRADE":"-","HOTEL_NM":"유스테이 명동 <br>레지던스 호스텔","COOP_NM":"굿모닝파크텔 <br>주식회사 윤호길","ADD_FACTY":"","NOF_RM":"10","ADDR_URL":" 중구 오장동 90-24 2층 ","REG_DATE":"2015-01-16"}
+,{"IDX":"67","CGG_NM":"중구","GRADE":"-","HOTEL_NM":"스타즈호텔 명동2호점","COOP_NM":"(주)모두스테이<br> 맹찬호, 양병선","ADD_FACTY":"","NOF_RM":"174","ADDR_URL":" 중구 충무로3가 58-8","REG_DATE":"2015-01-22"}
+,{"IDX":"68","CGG_NM":"중구","GRADE":"-","HOTEL_NM":"호텔 파크뷰","COOP_NM":"김은태, 최면호","ADD_FACTY":"","NOF_RM":"25","ADDR_URL":" 중구 예장동 1-43","REG_DATE":"2015-01-26"}
+,{"IDX":"69","CGG_NM":"중구","GRADE":"-","HOTEL_NM":"남산시티호텔","COOP_NM":"김성일","ADD_FACTY":"","NOF_RM":"60","ADDR_URL":" 중구 회현동1가 194-30 외 1","REG_DATE":"2015-01-29"}
+,{"IDX":"70","CGG_NM":"중구","GRADE":"-","HOTEL_NM":"서울 엔 호스텔","COOP_NM":"조정호","ADD_FACTY":"","NOF_RM":"20","ADDR_URL":" 중구 오장동 139-20","REG_DATE":"2015-02-12"}
+,{"IDX":"71","CGG_NM":"중구","GRADE":"-","HOTEL_NM":"오리엔스 호텔 <br>앤 레지던스","COOP_NM":"㈜더한 이재수","ADD_FACTY":"","NOF_RM":"116","ADDR_URL":" 중구 예장동 2-19","REG_DATE":"2015-02-17"}
+,{"IDX":"72","CGG_NM":"중구","GRADE":"-","HOTEL_NM":"UI 호스텔","COOP_NM":"좌철수","ADD_FACTY":"","NOF_RM":"19","ADDR_URL":" 중구 충무로2가 51-17","REG_DATE":"2015-02-23"}
+,{"IDX":"73","CGG_NM":"중구","GRADE":"-","HOTEL_NM":"이비스 스타일<br> 앰배서더 서울명동","COOP_NM":"㈜서한관광개발 <br>김봉환","ADD_FACTY":"","NOF_RM":"180","ADDR_URL":" 중구 충무로2가 53-10","REG_DATE":"2015-03-09"}
+,{"IDX":"74","CGG_NM":"중구","GRADE":"-","HOTEL_NM":"스테이비 호텔 명동","COOP_NM":"㈜청산물산 정홍덕","ADD_FACTY":"","NOF_RM":"97","ADDR_URL":" 중구 충무로3가 30-1","REG_DATE":"2015-03-17"}
+,{"IDX":"75","CGG_NM":"강남구","GRADE":"-","HOTEL_NM":"도미인프리미엄서울 <br>가로수길호텔","COOP_NM":"㈜한국교리쯔 멘테나스","ADD_FACTY":"","NOF_RM":"212","ADDR_URL":"서울 강남구 신사동 514-2","REG_DATE":"2015-03-05"}
+,{"IDX":"76","CGG_NM":"영등포구","GRADE":"-","HOTEL_NM":"코모도드래곤관광호텔","COOP_NM":"김민중 외 1","ADD_FACTY":"","NOF_RM":"49","ADDR_URL":"영등포구 영신로 32길 8번지","REG_DATE":"2015-04-09"}
+,{"IDX":"77","CGG_NM":"동대문구","GRADE":"-","HOTEL_NM":"동경호텔","COOP_NM":"문성무","ADD_FACTY":"","NOF_RM":"60","ADDR_URL":"동대문구 장안동 373-4","REG_DATE":"2014-10-30"}
+,{"IDX":"78","CGG_NM":"동대문구","GRADE":"-","HOTEL_NM":"골든씨티호텔","COOP_NM":"임성용","ADD_FACTY":"일반음식점(1),휴게음식점(1)","NOF_RM":"116","ADDR_URL":"동대문구 장안동 414-4","REG_DATE":"2014-11-28"}
+,{"IDX":"79","CGG_NM":"강북구","GRADE":"-","HOTEL_NM":"쏠라리움시티호스텔","COOP_NM":"김용자","ADD_FACTY":"없음","NOF_RM":"108","ADDR_URL":"강북구 덕릉로111","REG_DATE":"2014-03-25"}
+,{"IDX":"80","CGG_NM":"동대문구","GRADE":"-","HOTEL_NM":"HOTEL BLACK STONE","COOP_NM":"김기찬","ADD_FACTY":"","NOF_RM":"","ADDR_URL":"동대문구 장안동 366-2","REG_DATE":"2015-03-25"}
+,{"IDX":"81","CGG_NM":"서대문구","GRADE":"-","HOTEL_NM":"신라스테이서대문","COOP_NM":"박상오","ADD_FACTY":"휘트니스,미팅룸,레스토랑","NOF_RM":"319","ADDR_URL":"서대문구 충정로 76","REG_DATE":"2015-04-28"}
+,{"IDX":"82","CGG_NM":"용산구","GRADE":"-","HOTEL_NM":"㈜신세계조선호텔 포포인츠 남산","COOP_NM":"㈜신세계조선호텔 성영목","ADD_FACTY":"일반음식점(바,식당)","NOF_RM":"342","ADDR_URL":"용산구 한강대로 366(동자동)","REG_DATE":"2015-04-24"}
+,{"IDX":"83","CGG_NM":"영등포구","GRADE":"-","HOTEL_NM":"영등포 칸 관광호텔","COOP_NM":"이두기","ADD_FACTY":"","NOF_RM":"50","ADDR_URL":"영등포구 버드나루로74","REG_DATE":"2015-05-18"}
+]}

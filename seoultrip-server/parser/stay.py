@@ -1,10 +1,12 @@
 import json
 
+with open('data/seoulhotel.json', 'r') as f:
+    file = f.read()
+f.close()
 
-# TODO: FILE 읽어오기 실행
+result = json.loads(file)
 
 cnt = len(result["DATA"]) 
-
 rows = result["DATA"]
 
 for row in rows:
